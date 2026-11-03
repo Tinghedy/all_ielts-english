@@ -21,3 +21,6 @@
   - 💡 pass the time (v. phr.) 打發時間；pass time 是常見的搭配詞，用來指消磨空閒時光。
 - getting distracted
   - 💡 distract (v.) 使分心；getting distracted 指「分心、注意力被轉移」，常與 by 搭配。
+- In my spare time, I always choose to read books.
+  - ✏️ 原寫：In my sporadic time, I always choose to read books.｜「零碎時間」的英文慣用語為 spare time 或 free time，sporadic 雖有「零星的」之意但不常用於此搭配。
+  - 💡 spare time (n.) 閒暇、空閒時間；常用搭配詞有 in one's spare time（在某人的閒暇時）。
