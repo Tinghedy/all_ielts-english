@@ -14,3 +14,5 @@
 - there are still plenty of people who enjoy reading.
   - ✏️ 原寫：they are still plenty of people who enjoy reading.｜原句主詞使用代名詞 they 不合文法，表示「有」某物應使用 there are 句型。
   - 💡 plenty of (片語) 大量的、充足的，後接可數名詞複數或不可數名詞。
+- science fiction novel
+  - 💡 n. 科幻小說（指以科學為題材的小說）
