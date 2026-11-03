@@ -40,3 +40,5 @@
   - 💡 come second in (片語) 獲得第二名，通常用於比賽或競賽中。
 - over the following ten years
   - 💡 following (adj.) 接著的、隨後的。常用於表達「在接下來的……期間」 (following + 時間段)。
+- over the next decade
+  - 💡 prep. 在接下來的十年內（常用於未來時間軸的預測與計畫）
