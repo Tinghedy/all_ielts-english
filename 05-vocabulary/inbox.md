@@ -19,3 +19,5 @@
 - I love books that are entertaining and can help me pass the time.
   - ✏️ 原寫：I love the books which are entertaining and can help me pass the boring time.｜which 改用 that 更自然，且 pass time 不需加上 boring，因為 pass the time 本身即指打發時間。
   - 💡 pass the time (v. phr.) 打發時間；pass time 是常見的搭配詞，用來指消磨空閒時光。
+- getting distracted
+  - 💡 distract (v.) 使分心；getting distracted 指「分心、注意力被轉移」，常與 by 搭配。
