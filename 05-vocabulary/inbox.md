@@ -42,3 +42,6 @@
   - 💡 following (adj.) 接著的、隨後的。常用於表達「在接下來的……期間」 (following + 時間段)。
 - over the next decade
   - 💡 prep. 在接下來的十年內（常用於未來時間軸的預測與計畫）
+- my mom always nags me about cleaning my bedroom.
+  - ✏️ 原寫：my mom always nags me about bedroom cleaning.｜房間清潔的動詞片語應為 clean one's bedroom，介系詞 about 後方應接動名詞短語。
+  - 💡 nag (v.)嘮叨；nag someone about sth. 表示「因某事對某人嘮叨」。
