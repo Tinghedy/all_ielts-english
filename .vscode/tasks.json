@@ -1,0 +1,13 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "啟動 IELTS 介面",
+      "type": "shell",
+      "command": "(sleep 1 && open http://127.0.0.1:5178) & python3 app/server.py",
+      "isBackground": true,
+      "problemMatcher": [],
+      "group": { "kind": "build", "isDefault": true }
+    }
+  ]
+}

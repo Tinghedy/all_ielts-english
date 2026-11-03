@@ -1,0 +1,670 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>IELTS 學習庫</title>
+<style>
+  :root {
+    --bg: #f6f5f1; --card: #fff; --ink: #1f2328; --muted: #6b6f76; --line: #e2e0d9;
+    --accent: #2f6f5e; --accent-ink: #fff; --warn: #b3412e; --chip: #eef3f1;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #17191c; --card: #202328; --ink: #e8e6e1; --muted: #9a9ea6; --line: #33373e;
+      --accent: #5fb39a; --accent-ink: #0f1a16; --warn: #e07a66; --chip: #26302d;
+    }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink);
+    font: 15px/1.55 -apple-system, "PingFang TC", "Noto Sans TC", sans-serif; }
+  header { padding: 20px 16px 0; max-width: 860px; margin: 0 auto; }
+  h1 { font-size: 20px; margin: 0 0 12px; display: flex; align-items: baseline; gap: 10px; }
+  h1 small { font-size: 12px; font-weight: 400; color: var(--muted); }
+  nav { display: flex; gap: 4px; border-bottom: 1px solid var(--line); overflow-x: auto; }
+  nav button { background: none; border: 0; padding: 10px 14px; font: inherit; color: var(--muted);
+    border-bottom: 2px solid transparent; cursor: pointer; white-space: nowrap; }
+  nav button.on { color: var(--ink); border-color: var(--accent); font-weight: 600; }
+  main { max-width: 860px; margin: 0 auto; padding: 16px; }
+  section { display: none; } section.on { display: block; }
+  .card { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 16px; margin-bottom: 16px; }
+  .grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; }
+  .full { grid-column: 1 / -1; }
+  @media (max-width: 600px) { .grid { grid-template-columns: 1fr; } }
+  label { display: block; font-size: 13px; color: var(--muted); margin-bottom: 4px; }
+  input, select, textarea { width: 100%; font: inherit; color: var(--ink); background: var(--bg);
+    border: 1px solid var(--line); border-radius: 6px; padding: 8px 10px; }
+  textarea { min-height: 72px; resize: vertical; }
+  input:focus, select:focus, textarea:focus { outline: 2px solid var(--accent); outline-offset: -1px; }
+  .seg { display: flex; gap: 6px; flex-wrap: wrap; }
+  .seg label { margin: 0; display: inline-flex; align-items: center; gap: 4px; padding: 6px 12px;
+    border: 1px solid var(--line); border-radius: 999px; cursor: pointer; color: var(--ink); font-size: 14px; }
+  .seg input { display: none; }
+  .seg label:has(input:checked) { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); }
+  .row { display: flex; gap: 8px; align-items: center; justify-content: flex-end; margin-top: 14px; }
+  button.primary { background: var(--accent); color: var(--accent-ink); border: 0; border-radius: 6px;
+    padding: 9px 18px; font: inherit; font-weight: 600; cursor: pointer; }
+  button.primary:disabled { opacity: .5; cursor: wait; }
+  .msg { font-size: 14px; margin-right: auto; }
+  .msg.err { color: var(--warn); }
+  .hint { font-size: 12px; color: var(--muted); margin-top: 4px; }
+  .hint a { color: var(--accent); }
+  .cards { display: grid; gap: 8px; }
+  .cardrow { display: grid; grid-template-columns: auto 1fr 130px; gap: 8px; align-items: center;
+    padding: 8px; border: 1px solid var(--line); border-radius: 6px; }
+  .cardrow .note { grid-column: 2 / -1; display: none; }
+  .cardrow.sel .note { display: block; }
+  .cardrow input[type=checkbox] { width: auto; }
+  table { width: 100%; border-collapse: collapse; font-size: 14px; }
+  th, td { text-align: left; padding: 7px 8px; border-bottom: 1px solid var(--line); vertical-align: top; }
+  th { color: var(--muted); font-weight: 500; font-size: 13px; }
+  .tablewrap { overflow-x: auto; }
+  .chip { display: inline-block; background: var(--chip); border-radius: 4px; padding: 0 6px; font-size: 12px; color: var(--muted); }
+  .freq-高 { color: var(--accent); font-weight: 600; }
+  #quickIn { font-size: 18px; padding: 12px 14px; background: var(--card); }
+  #quickMsg { display: block; min-height: 20px; margin: 6px 2px 4px; }
+  .day { font-size: 13px; color: var(--muted); margin: 16px 2px 4px; }
+  .notes { list-style: none; margin: 0; padding: 0; }
+  .notes li { padding: 7px 2px; border-bottom: 1px solid var(--line); }
+  .notes .sub { font-size: 13px; color: var(--muted); margin-top: 2px; }
+  .notes .fix { color: var(--warn); }
+</style>
+</head>
+<body>
+<header>
+  <h1>IELTS 學習庫 <small id="modeTag"></small></h1>
+  <nav>
+    <button data-tab="quick" class="on">隨手記</button>
+    <button data-tab="vocab">記單字</button>
+    <button data-tab="log">每日紀錄</button>
+    <button data-tab="browse">查單字</button>
+    <button data-tab="progress">進度</button>
+    <button data-tab="settings" id="settingsTab" hidden>設定</button>
+  </nav>
+</header>
+<main>
+
+<section id="quick" class="on">
+  <input id="quickIn" autofocus placeholder="看到什麼就打，按 Enter 存（例：account for 佔）">
+  <span class="msg" id="quickMsg"></span>
+  <div id="quickList"></div>
+</section>
+
+<section id="vocab">
+  <form class="card" id="vocabForm">
+    <div class="grid">
+      <div><label>單字 / 搭配詞</label><input name="word" required placeholder="e.g. account for"></div>
+      <div><label>中文</label><input name="zh" placeholder="佔"></div>
+      <div class="full"><label>例句</label><input name="example" placeholder="Food accounted for 20%."></div>
+      <div><label>頻率</label>
+        <div class="seg">
+          <label><input type="radio" name="freq" value="高">高</label>
+          <label><input type="radio" name="freq" value="中" checked>中</label>
+          <label><input type="radio" name="freq" value="低">低</label>
+        </div></div>
+      <div><label>來源技能</label>
+        <div class="seg">
+          <label><input type="radio" name="source" value="listening">聽</label>
+          <label><input type="radio" name="source" value="speaking">說</label>
+          <label><input type="radio" name="source" value="reading" checked>讀</label>
+          <label><input type="radio" name="source" value="writing">寫</label>
+        </div></div>
+      <div><label>主題檔</label><select name="file" id="topicSel"></select></div>
+      <div><label>段落</label><input name="section" id="sectionIn" list="sectionList" placeholder="選一個或打新段落名">
+        <datalist id="sectionList"></datalist></div>
+      <div class="full" id="newTopicBox" hidden>
+        <div class="grid">
+          <div><label>新主題名稱</label><input name="newTopic" placeholder="環境 Environment"></div>
+          <div><label>檔名（英文，可留空）</label><input name="newTopicFile" placeholder="environment"></div>
+        </div>
+      </div>
+    </div>
+    <div class="row"><span class="msg" id="vocabMsg"></span><button class="primary">存入 ⏎</button></div>
+  </form>
+  <div class="hint">按 Enter 直接存；存完會保留主題與段落，方便連續輸入。</div>
+</section>
+
+<section id="log">
+  <form class="card" id="logForm">
+    <div class="grid">
+      <div><label>日期</label><input type="date" name="date" id="logDate"></div>
+      <div><label>技能</label>
+        <div class="seg" id="skillSeg">
+          <label><input type="radio" name="skill" value="listening">聽力</label>
+          <label><input type="radio" name="skill" value="speaking">口說</label>
+          <label><input type="radio" name="skill" value="reading" checked>閱讀</label>
+          <label><input type="radio" name="skill" value="writing">寫作</label>
+        </div></div>
+      <div class="full"><label>標題</label><input name="title" required placeholder="Cam18 Test1 Passage 2"></div>
+      <div><label>檔名描述（英文，可留空）</label><input name="slug" placeholder="cam18-test1-p2"></div>
+      <div><label>時間</label><input name="duration" placeholder="40 min"></div>
+      <div class="full"><label>今天練了什麼（一行一點）</label><textarea name="did"></textarea></div>
+      <div class="full"><label>分數 / 正確率</label><input name="result" placeholder="10/13"></div>
+      <div class="full"><label>卡住的地方</label><textarea name="stuck"></textarea></div>
+      <div class="full"><label>明天</label><textarea name="next"></textarea></div>
+      <div class="full"><label>標籤（逗號分隔）</label><input name="tags" placeholder="tfng, cam18"></div>
+      <div class="full"><label>練到的技能卡（勾選後會寫進該卡的練習紀錄）</label><div class="cards" id="cardList"></div></div>
+    </div>
+    <div class="row"><span class="msg" id="logMsg"></span><button class="primary">建立紀錄</button></div>
+  </form>
+</section>
+
+<section id="browse">
+  <div class="card">
+    <input id="q" placeholder="搜尋單字、中文或例句…">
+    <div class="hint" id="count"></div>
+    <div class="tablewrap"><table><thead><tr><th>單字</th><th>中文</th><th>頻率</th><th>例句</th><th>主題</th></tr></thead>
+      <tbody id="vocabRows"></tbody></table></div>
+  </div>
+</section>
+
+<section id="progress">
+  <div class="card tablewrap">
+    <table><thead><tr><th>日期</th><th>技能</th><th>內容</th><th>時間</th><th>成果</th></tr></thead>
+      <tbody id="progRows"></tbody></table>
+  </div>
+</section>
+
+<section id="settings">
+  <form class="card" id="settingsForm">
+    <div class="grid">
+      <div><label>GitHub 帳號</label><input name="owner"></div>
+      <div><label>Repo 名稱</label><input name="repo"></div>
+      <div class="full"><label>GitHub token（存檔用）</label><input name="token" type="password" autocomplete="off">
+        <div class="hint">到 <a href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener">GitHub → Fine-grained token</a>，Repository access 只選這個 repo，Permissions → Contents 設為 Read and write。</div></div>
+      <div class="full"><label>Gemini API key（校正用，可留空）</label><input name="gemini" type="password" autocomplete="off">
+        <div class="hint"><a href="https://aistudio.google.com/apikey" target="_blank" rel="noopener">Google AI Studio</a> 申請。</div></div>
+      <div><label>Gemini 模型</label><input name="model" placeholder="gemini-flash-lite-latest"></div>
+      <div><label>分支</label><input name="branch" placeholder="main"></div>
+    </div>
+    <div class="hint">這些只存在這台裝置的瀏覽器，不會上傳到 repo。換手機要再填一次。</div>
+    <div class="row"><span class="msg" id="settingsMsg"></span><button class="primary">儲存</button></div>
+  </form>
+</section>
+
+</main>
+<script>
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+const flash = (el, text, err) => { el.textContent = text; el.className = "msg" + (err ? " err" : ""); };
+const today = () => { const d = new Date(); d.setMinutes(d.getMinutes() - d.getTimezoneOffset()); return d.toISOString().slice(0, 10); };
+const remember = (k, v) => { try { localStorage.setItem(k, v); } catch {} };
+const recall = k => { try { return localStorage.getItem(k); } catch { return null; } };
+
+// ================= 儲存層：本機伺服器 or GitHub API =================
+
+const localStore = {
+  async read(path) {
+    const r = await fetch("/api/fs?path=" + encodeURIComponent(path), { cache: "no-store" });
+    if (r.status === 404) return null;
+    const j = await r.json();
+    if (!r.ok) throw new Error(j.error);
+    return j.content;
+  },
+  async write(path, content) {
+    const r = await fetch("/api/fs", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ path, content }) });
+    if (!r.ok) throw new Error((await r.json()).error);
+  },
+  async list(dir) {
+    const r = await fetch("/api/ls?dir=" + encodeURIComponent(dir), { cache: "no-store" });
+    if (!r.ok) throw new Error((await r.json()).error);
+    return r.json();
+  },
+};
+
+const b64encode = s => {
+  const bytes = new TextEncoder().encode(s);
+  let bin = "";
+  for (let i = 0; i < bytes.length; i += 0x8000) bin += String.fromCharCode(...bytes.subarray(i, i + 0x8000));
+  return btoa(bin);
+};
+const b64decode = s => new TextDecoder().decode(Uint8Array.from(atob(s.replace(/\s/g, "")), c => c.charCodeAt(0)));
+
+function ghStore(cfg) {
+  const shas = {};
+  const url = p => `https://api.github.com/repos/${cfg.owner}/${cfg.repo}/contents/${p.split("/").map(encodeURIComponent).join("/")}`;
+  const call = async (path, opts = {}) => {
+    const r = await fetch(url(path) + (opts.method ? "" : `?ref=${encodeURIComponent(cfg.branch)}`), {
+      ...opts, cache: "no-store",
+      headers: { Authorization: `Bearer ${cfg.token}`, Accept: "application/vnd.github+json", ...(opts.headers || {}) },
+    });
+    if (r.status === 404) return null;
+    const j = await r.json();
+    if (r.status === 401) throw new Error("GitHub token 無效，請到「設定」重填");
+    if (r.status === 409) throw new Error("檔案剛被改過，請再按一次");
+    if (!r.ok) throw new Error("GitHub：" + (j.message || r.status));
+    return j;
+  };
+  return {
+    async read(path) {
+      const j = await call(path);
+      if (!j) return null;
+      shas[path] = j.sha;
+      return b64decode(j.content);
+    },
+    async write(path, content, message) {
+      const j = await call(path, { method: "PUT", body: JSON.stringify({ message: message || `update ${path}`, content: b64encode(content), sha: shas[path], branch: cfg.branch }) });
+      shas[path] = j.content.sha;
+    },
+    async list(dir) {
+      const j = await call(dir);
+      return (j || []).filter(f => f.type === "file" && f.name.endsWith(".md")).map(f => f.name).sort();
+    },
+  };
+}
+
+// ================= Gemini =================
+
+const GEMINI_PROMPT = `你是台灣 IELTS 考生的英文助教。考生隨手記下看到的英文單字、片語或句子，可能有拼字、文法、用字錯誤，也可能夾雜中文。
+請回傳 JSON：
+- corrected：修正後的內容。只修英文錯誤，保留考生寫的中文；沒錯就原樣回傳。
+- changed：有沒有修改（true / false）。
+- explanation：若有修改，用繁體中文一句話說明錯在哪；沒修改則空字串。
+- gloss：用繁體中文一行說明重點字 / 片語的意思與用法（含詞性，必要時附搭配詞），精簡。
+
+考生的筆記：
+`;
+
+async function askGemini(text) {
+  const body = {
+    contents: [{ parts: [{ text: GEMINI_PROMPT + text }] }],
+    generationConfig: {
+      responseMimeType: "application/json",
+      responseSchema: {
+        type: "OBJECT",
+        properties: { corrected: { type: "STRING" }, changed: { type: "BOOLEAN" }, explanation: { type: "STRING" }, gloss: { type: "STRING" } },
+        required: ["corrected", "changed", "explanation", "gloss"],
+      },
+    },
+  };
+  let r;
+  const ctrl = new AbortController();
+  const timer = setTimeout(() => ctrl.abort(), 20000);
+  try {
+    if (MODE === "local") {
+      if (!CONFIG.gemini) return null;
+      r = await fetch("/api/gemini", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(body), signal: ctrl.signal });
+    } else {
+      if (!CONFIG.gemini) return null;
+      const model = CONFIG.model || "gemini-flash-lite-latest";
+      r = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${encodeURIComponent(model)}:generateContent`, {
+        method: "POST", headers: { "Content-Type": "application/json", "x-goog-api-key": CONFIG.gemini }, body: JSON.stringify(body), signal: ctrl.signal,
+      });
+    }
+  } catch (e) {
+    throw new Error(e.name === "AbortError" ? "逾時" : e.message);
+  } finally { clearTimeout(timer); }
+  const j = await r.json();
+  if (!r.ok) throw new Error(`Gemini ${r.status}：${j.error?.message || ""}`);
+  const parts = j.candidates?.[0]?.content?.parts || [];
+  return JSON.parse(parts.filter(p => p.text && !p.thought).pop().text);
+}
+
+// ================= Markdown 處理（格式與 CLAUDE.md 規則一致） =================
+
+const VOCAB = "05-vocabulary";
+const INBOX = VOCAB + "/inbox.md";
+const PROGRESS = "00-dashboard/progress-log.md";
+const NON_TOPIC = ["README.md", "paraphrase-pairs.md", "inbox.md"];
+const VOCAB_HEADER = "| 單字 / 搭配詞 | 中文 | 頻率 | 例句 | 來源技能 |";
+const SKILL_DIRS = { listening: "01-listening", speaking: "02-speaking", reading: "03-reading", writing: "04-writing" };
+const STATUS = ["🔴 未開始", "🟡 練習中", "🟢 穩定"];
+
+const cell = s => String(s ?? "").replace(/\|/g, "／").split(/\s+/).filter(Boolean).join(" ");
+const slugify = s => String(s).trim().toLowerCase().replace(/[^\p{L}\p{N}_-]+/gu, "-").replace(/-+/g, "-").replace(/^-|-$/g, "") || "note";
+const isVocabHeader = l => l.trim().startsWith("| 單字 / 搭配詞");
+const isEmptyRow = l => l.trim().startsWith("|") && !l.replace(/\|/g, "").trim();
+const splitRow = l => l.trim().replace(/^\||\|$/g, "").split("|").map(c => c.trim());
+const titleOf = (lines, fallback) => (lines.find(l => l.startsWith("# ")) || "# " + fallback).slice(2).trim();
+const save = (lines, end = "\n") => lines.join("\n").replace(/\n+$/, "") + end;
+
+function appendTableRow(lines, headerIdx, row) {
+  let i = headerIdx + 2, last = headerIdx + 1;
+  while (i < lines.length && lines[i].trim().startsWith("|")) { last = i; i++; }
+  if (last === headerIdx + 2 && isEmptyRow(lines[last])) lines[last] = row;
+  else lines.splice(last + 1, 0, row);
+}
+
+function parseTopic(file, text) {
+  const lines = text.split("\n");
+  const sections = [], entries = [];
+  let heading = "", inTable = false;
+  for (const l of lines) {
+    if (l.startsWith("## ")) { heading = l.slice(3).trim(); inTable = false; }
+    else if (isVocabHeader(l)) { inTable = true; if (heading && !sections.includes(heading)) sections.push(heading); }
+    else if (inTable && l.trim().startsWith("|")) {
+      const c = splitRow(l);
+      if (/^[-:\s]*$/.test(c.join("")) || !c.some(Boolean)) continue;
+      entries.push({ file, section: heading, word: c[0], zh: c[1] || "", freq: c[2] || "", example: c[3] || "", source: c[4] || "" });
+    } else inTable = false;
+  }
+  return { file, title: titleOf(lines, file), sections, entries };
+}
+
+async function loadTopicFiles() {
+  const names = (await store.list(VOCAB)).filter(n => !NON_TOPIC.includes(n));
+  return Promise.all(names.map(async n => parseTopic(n, await store.read(`${VOCAB}/${n}`) || "")));
+}
+
+async function addVocab(d) {
+  const word = cell(d.word);
+  if (!word) throw new Error("請輸入單字");
+  const row = "| " + ["word", "zh", "freq", "example", "source"].map(k => cell(d[k])).join(" | ") + " |";
+  let section = cell(d.section) || "一般";
+
+  if (d.newTopic) {
+    const title = cell(d.newTopic);
+    const name = slugify(d.newTopicFile || title) + ".md";
+    const path = `${VOCAB}/${name}`;
+    if (await store.read(path) !== null) throw new Error(`${name} 已存在，請直接選它`);
+    await store.write(path, `# ${title}\n\n> 頻率指在 IELTS 中的常用程度\n\n## ${section}\n\n${VOCAB_HEADER}\n|---|---|---|---|---|\n${row}\n`, `單字：新主題 ${title}`);
+    const readme = await store.read(`${VOCAB}/README.md`);
+    await store.write(`${VOCAB}/README.md`, readme.replace(/\n+$/, "") + `\n- [[${name.slice(0, -3)}|${title}]]\n`, `單字：README 加 ${title}`);
+    return { file: name, section };
+  }
+
+  const path = `${VOCAB}/${d.file}`;
+  const text = await store.read(path);
+  if (text === null) throw new Error("找不到主題檔");
+  const lines = text.split("\n");
+  let target = null;
+  const h = lines.findIndex(l => l.startsWith("## ") && l.slice(3).trim() === section);
+  if (h >= 0) {
+    for (let j = h + 1; j < lines.length && !lines[j].startsWith("## "); j++) {
+      if (isVocabHeader(lines[j])) { target = j; break; }
+    }
+  }
+  if (target !== null) appendTableRow(lines, target, row);
+  else {
+    // 新段落：放在「易混淆」之前（若有），否則放檔尾
+    let at = lines.findIndex(l => l.startsWith("## 易混淆"));
+    if (at < 0) { while (lines.length && !lines[lines.length - 1].trim()) lines.pop(); at = lines.length; }
+    const block = [`## ${section}`, "", VOCAB_HEADER, "|---|---|---|---|---|", row, ""];
+    if (at > 0 && lines[at - 1].trim()) block.unshift("");
+    lines.splice(at, 0, ...block);
+  }
+  await store.write(path, save(lines), `單字：${word}`);
+  return { file: d.file, section };
+}
+
+async function skillCards(skill) {
+  const dir = `${SKILL_DIRS[skill]}/skills`;
+  const names = await store.list(dir);
+  return Promise.all(names.map(async n => {
+    const text = await store.read(`${dir}/${n}`) || "";
+    const m = text.match(/\*\*狀態\*\*：(\S+ \S+)/);
+    return { file: n, title: titleOf(text.split("\n"), n), status: m ? m[1] : "" };
+  }));
+}
+
+const bullets = s => String(s || "").split("\n").map(l => l.trim().replace(/^[-•]\s*/, "")).filter(Boolean).map(x => "- " + x).join("\n") || "- ";
+
+async function addLog(d, cardInfo) {
+  const folder = SKILL_DIRS[d.skill];
+  if (!folder) throw new Error("請選技能");
+  const day = d.date || today();
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(day)) throw new Error("日期格式要是 YYYY-MM-DD");
+  const title = cell(d.title);
+  if (!title) throw new Error("請輸入標題");
+  const stem = `${day}-${slugify(d.slug || title)}`;
+  const path = `${folder}/log/${stem}.md`;
+  if (await store.read(path) !== null) throw new Error(`${stem}.md 已存在`);
+  const duration = cell(d.duration), result = cell(d.result);
+  const cards = d.cards.filter(c => c.file);
+  const used = cards.map(c => `- [[skills/${c.file.slice(0, -3)}|${cardInfo[c.file]?.title || c.file}]]`).join("\n") || "- ";
+  const tags = ["ielts", ...String(d.tags || "").split(",").map(t => t.trim()).filter(Boolean).map(slugify)].join(", ");
+  await store.write(path,
+    `---\ndate: ${day}\nskill: ${d.skill}\nduration: ${duration}\ntags: [${tags}]\n---\n# ${day} — ${title}\n\n` +
+    `## 今天練了什麼\n${bullets(d.did)}\n\n## 用到的 skill\n${used}\n\n## 成果\n- 分數 / 正確率：${result}\n\n` +
+    `## 卡住的地方\n${bullets(d.stuck)}\n\n## 明天\n${bullets(d.next)}\n`, `紀錄：${day} ${title}`);
+
+  const prog = (await store.read(PROGRESS)).split("\n");
+  appendTableRow(prog, prog.findIndex(l => l.startsWith("| 日期")),
+    "| " + [day, d.skill, title, duration || "—", result || "—", `[[${folder}/log/${stem}]]`].join(" | ") + " |");
+  await store.write(PROGRESS, save(prog), `進度：${day} ${title}`);
+
+  for (const c of cards) {
+    const cp = `${folder}/skills/${c.file}`;
+    let lines = (await store.read(cp)).split("\n");
+    if (STATUS.includes(c.status)) lines = lines.map(l => l.startsWith("**狀態**") ? l.replace(/(\*\*狀態\*\*：).*/, "$1" + c.status) : l);
+    const row = "| " + [day, title, result || "—", [cell(c.note), `→ [[log/${stem}]]`].filter(Boolean).join(" ")].join(" | ") + " |";
+    const h = lines.findIndex(l => l.startsWith("| 日期 | 練習內容"));
+    if (h < 0) lines.push("", "## 練習紀錄", "| 日期 | 練習內容 | 正確率 / 表現 | 備註 |", "|---|---|---|---|", row);
+    else appendTableRow(lines, h, row);
+    await store.write(cp, save(lines), `技能卡：${c.file} 練習紀錄`);
+  }
+  return { file: path };
+}
+
+async function progressRows() {
+  return (await store.read(PROGRESS)).split("\n")
+    .filter(l => l.startsWith("|") && !l.startsWith("| 日期") && !l.startsWith("|---"))
+    .map(splitRow).reverse();
+}
+
+async function addNote(raw) {
+  const text = raw.split(/\s+/).filter(Boolean).join(" ");
+  let ai = null, aiError = "";
+  try { ai = await askGemini(text); } catch (e) { aiError = e.message; }  // Gemini 失敗也照樣存原文
+
+  let entry = [`- ${text}`];
+  if (ai) {
+    const corrected = String(ai.corrected || "").split(/\s+/).filter(Boolean).join(" ");
+    if (corrected && corrected !== text) {
+      const why = cell(ai.explanation);
+      entry = [`- ${corrected}`, `  - ✏️ 原寫：${text}` + (why ? `｜${why}` : "")];
+    }
+    if (ai.gloss) entry.push(`  - 💡 ${cell(ai.gloss)}`);
+  }
+  const day = today();
+  const existing = await store.read(INBOX);
+  const lines = existing !== null ? existing.replace(/\n+$/, "").split("\n")
+    : ["# 隨手記", "", "> 介面隨手記下的字，之後再整理進主題檔（標頻率）", ""];
+  if (!lines.includes(`## ${day}`)) lines.push(...(lines[lines.length - 1].trim() ? ["", `## ${day}`] : [`## ${day}`]));
+  lines.push(...entry);
+  await store.write(INBOX, save(lines), `隨手記：${text.slice(0, 50)}`);
+  return { ai: !!ai, aiError };
+}
+
+async function notes() {
+  const text = await store.read(INBOX);
+  if (text === null) return [];
+  const out = [];
+  let day = "";
+  for (const l of text.split("\n")) {
+    if (l.startsWith("## ")) day = l.slice(3).trim();
+    else if (l.startsWith("- ")) out.push({ date: day, text: l.slice(2), fix: "", gloss: "" });
+    else if (out.length && l.startsWith("  - ✏️ ")) out[out.length - 1].fix = l.slice(7);
+    else if (out.length && l.startsWith("  - 💡 ")) out[out.length - 1].gloss = l.slice(7);
+  }
+  return out.reverse();
+}
+
+// ================= 介面 =================
+
+let MODE, CONFIG, store;
+
+function showTab(name) {
+  document.querySelectorAll("nav button, section").forEach(x => x.classList.remove("on"));
+  document.querySelector(`nav button[data-tab="${name}"]`).classList.add("on");
+  $("#" + name).classList.add("on");
+}
+document.querySelectorAll("nav button").forEach(b => b.onclick = () => {
+  showTab(b.dataset.tab);
+  if (!store) return;
+  if (b.dataset.tab === "quick") { loadNotes(); $("#quickIn").focus(); }
+  if (b.dataset.tab === "browse") loadVocab();
+  if (b.dataset.tab === "progress") loadProgress();
+});
+
+// 送出時鎖住，避免重複送出
+async function busy(el, fn) {
+  el.disabled = true;
+  try { return await fn(); } finally { el.disabled = false; }
+}
+
+// ---- 隨手記 ----
+async function loadNotes() {
+  const byDay = {};
+  (await notes()).forEach(n => (byDay[n.date] ||= []).push(n));
+  $("#quickList").innerHTML = Object.entries(byDay).map(([d, items]) =>
+    `<div class="day">${esc(d)}</div><ul class="notes">${items.map(n => `<li>${esc(n.text)}
+      ${n.fix ? `<div class="sub fix">✏️ ${esc(n.fix)}</div>` : ""}
+      ${n.gloss ? `<div class="sub">💡 ${esc(n.gloss)}</div>` : ""}</li>`).join("")}</ul>`).join("");
+}
+$("#quickIn").onkeydown = async e => {
+  if (e.key !== "Enter" || e.isComposing) return;
+  const text = e.target.value.trim();
+  if (!text) return;
+  flash($("#quickMsg"), CONFIG.gemini ? "Gemini 校正中，存檔中…" : "存檔中…");
+  await busy(e.target, async () => {
+    try {
+      const r = await addNote(text);
+      e.target.value = "";
+      if (r.aiError) flash($("#quickMsg"), "✓ 已存原文（Gemini 失敗：" + r.aiError + "）", true);
+      else flash($("#quickMsg"), r.ai ? "✓ 已存，Gemini 已校正" : "✓ 已存（未設定 Gemini key）");
+      loadNotes();
+    } catch (err) { flash($("#quickMsg"), "沒存到：" + err.message, true); }
+  });
+  e.target.focus();
+};
+
+// ---- 記單字 ----
+let topics = [];
+async function loadTopics(selectFile) {
+  topics = await loadTopicFiles();
+  const sel = $("#topicSel");
+  sel.innerHTML = topics.map(t => `<option value="${esc(t.file)}">${esc(t.title)}</option>`).join("")
+    + `<option value="__new">＋ 新主題…</option>`;
+  const want = selectFile || recall("topic");
+  if (want && [...sel.options].some(o => o.value === want)) sel.value = want;
+  onTopic();
+}
+function onTopic() {
+  $("#newTopicBox").hidden = $("#topicSel").value !== "__new";
+  const t = topics.find(t => t.file === $("#topicSel").value);
+  $("#sectionList").innerHTML = (t?.sections || []).map(s => `<option value="${esc(s)}">`).join("");
+  $("#sectionIn").value = recall("section:" + $("#topicSel").value) || (t?.sections[0] ?? "");
+  remember("topic", $("#topicSel").value);
+}
+$("#topicSel").onchange = onTopic;
+$("#vocabForm").onsubmit = async e => {
+  e.preventDefault();
+  const f = Object.fromEntries(new FormData(e.target));
+  if (f.file === "__new") { if (!f.newTopic) return flash($("#vocabMsg"), "請輸入新主題名稱", true); delete f.file; }
+  else delete f.newTopic;
+  flash($("#vocabMsg"), "存檔中…");
+  await busy(e.target.querySelector("button"), async () => {
+    try {
+      const r = await addVocab(f);
+      flash($("#vocabMsg"), `✓ 已存入 ${r.file} › ${r.section}：${f.word}`);
+      remember("section:" + r.file, r.section);
+      ["word", "zh", "example", "newTopic", "newTopicFile"].forEach(n => e.target.elements[n].value = "");
+      e.target.elements.word.focus();
+      if (f.newTopic || !topics.find(t => t.file === r.file)?.sections.includes(r.section)) loadTopics(r.file);
+    } catch (err) { flash($("#vocabMsg"), err.message, true); }
+  });
+};
+
+// ---- 每日紀錄 ----
+$("#logDate").value = today();
+let cardInfo = {};
+async function loadCards() {
+  const cards = await skillCards($("#logForm").elements.skill.value);
+  cardInfo = Object.fromEntries(cards.map(c => [c.file, c]));
+  $("#cardList").innerHTML = cards.map(c => `
+    <div class="cardrow" data-file="${esc(c.file)}">
+      <input type="checkbox">
+      <span>${esc(c.title)}</span>
+      <select><option value="">${esc(c.status) || "狀態不變"}</option>
+        ${STATUS.filter(s => s !== c.status).map(s => `<option>${s}</option>`).join("")}</select>
+      <input class="note" placeholder="這張卡的備註（可留空）">
+    </div>`).join("") || `<span class="hint">這項技能還沒有技能卡</span>`;
+  $("#cardList").querySelectorAll(".cardrow input[type=checkbox]").forEach(cb =>
+    cb.onchange = () => cb.parentElement.classList.toggle("sel", cb.checked));
+}
+$("#skillSeg").onchange = loadCards;
+$("#logForm").onsubmit = async e => {
+  e.preventDefault();
+  const f = Object.fromEntries(new FormData(e.target));
+  f.cards = [...document.querySelectorAll(".cardrow.sel")].map(r => ({
+    file: r.dataset.file, status: r.querySelector("select").value, note: r.querySelector(".note").value,
+  }));
+  flash($("#logMsg"), "存檔中…");
+  await busy(e.target.querySelector("button"), async () => {
+    try {
+      const r = await addLog(f, cardInfo);
+      flash($("#logMsg"), `✓ 已建立 ${r.file}，並更新進度總表`);
+      ["title", "slug", "duration", "did", "result", "stuck", "next", "tags"].forEach(n => e.target.elements[n].value = "");
+      loadCards();
+    } catch (err) { flash($("#logMsg"), err.message, true); }
+  });
+};
+
+// ---- 查單字 ----
+let allVocab = [];
+async function loadVocab() { allVocab = (await loadTopicFiles()).flatMap(t => t.entries); renderVocab(); }
+function renderVocab() {
+  const q = $("#q").value.trim().toLowerCase();
+  const rows = allVocab.filter(v => !q || [v.word, v.zh, v.example].join(" ").toLowerCase().includes(q));
+  $("#count").textContent = `${rows.length} / ${allVocab.length} 筆`;
+  $("#vocabRows").innerHTML = rows.map(v => `<tr>
+    <td><b>${esc(v.word)}</b></td><td>${esc(v.zh)}</td><td class="freq-${esc(v.freq)}">${esc(v.freq)}</td>
+    <td>${esc(v.example)}</td><td><span class="chip">${esc(v.file.replace(".md", ""))} › ${esc(v.section)}</span></td></tr>`).join("");
+}
+$("#q").oninput = renderVocab;
+
+// ---- 進度 ----
+async function loadProgress() {
+  $("#progRows").innerHTML = (await progressRows()).map(r => `<tr>${r.slice(0, 5).map(c => `<td>${esc(c)}</td>`).join("")}</tr>`).join("");
+}
+
+// ---- 設定（GitHub Pages 用） ----
+function pagesConfig() {
+  const [owner] = location.hostname.split(".");
+  const repo = location.pathname.split("/")[1] || `${owner}.github.io`;
+  let saved = {};
+  try { saved = JSON.parse(recall("ghConfig") || "{}"); } catch {}
+  return { owner, repo, branch: "main", model: "", token: "", gemini: "", ...saved };
+}
+$("#settingsForm").onsubmit = e => {
+  e.preventDefault();
+  const f = Object.fromEntries(new FormData(e.target));
+  f.branch = f.branch || "main";
+  remember("ghConfig", JSON.stringify(f));
+  flash($("#settingsMsg"), "✓ 已儲存");
+  start();
+};
+
+async function start() {
+  try {
+    const r = await fetch("/api/config", { cache: "no-store" });
+    if (!r.ok) throw 0;
+    CONFIG = await r.json();
+    MODE = "local";
+    store = localStore;
+    $("#modeTag").textContent = "本機";
+  } catch {
+    MODE = "pages";
+    CONFIG = pagesConfig();
+    $("#settingsTab").hidden = false;
+    $("#modeTag").textContent = `GitHub · ${CONFIG.owner}/${CONFIG.repo}`;
+    const form = $("#settingsForm").elements;
+    ["owner", "repo", "branch", "model", "token", "gemini"].forEach(k => form[k].value = CONFIG[k] || "");
+    if (!CONFIG.token) {
+      showTab("settings");
+      return flash($("#settingsMsg"), "第一次使用：請填 GitHub token 才能存檔");
+    }
+    store = ghStore(CONFIG);
+  }
+  try {
+    await Promise.all([loadNotes(), loadTopics(), loadCards()]);
+    if (MODE === "pages" && $("#settings").classList.contains("on")) showTab("quick");
+  } catch (err) {
+    flash($("#quickMsg"), "讀取失敗：" + err.message, true);
+  }
+}
+start();
+</script>
+</body>
+</html>
