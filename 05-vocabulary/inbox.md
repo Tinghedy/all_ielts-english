@@ -29,3 +29,5 @@
 - switch my brain off after a long week
   - ✏️ 原寫：swith my brain off after a long week｜拼字錯誤，'swith' 應為 'switch'。
   - 💡 switch... off (phrv.) 關掉、切斷（常用於 switch one's brain off，指讓大腦放空休息）
+- constitute
+  - 💡 動詞，意指「組成、構成」，常用於被動語態 (be constituted of) 或主詞為群體時。
