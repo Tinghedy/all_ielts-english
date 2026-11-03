@@ -24,3 +24,5 @@
 - In my spare time, I always choose to read books.
   - ✏️ 原寫：In my sporadic time, I always choose to read books.｜「零碎時間」的英文慣用語為 spare time 或 free time，sporadic 雖有「零星的」之意但不常用於此搭配。
   - 💡 spare time (n.) 閒暇、空閒時間；常用搭配詞有 in one's spare time（在某人的閒暇時）。
+- My schedule is too hectic.
+  - 💡 hectic (adj.) 忙碌的、緊張的。常用於形容行程或生活非常忙碌，如 a hectic schedule。
