@@ -26,3 +26,6 @@
   - 💡 spare time (n.) 閒暇、空閒時間；常用搭配詞有 in one's spare time（在某人的閒暇時）。
 - My schedule is too hectic.
   - 💡 hectic (adj.) 忙碌的、緊張的。常用於形容行程或生活非常忙碌，如 a hectic schedule。
+- switch my brain off after a long week
+  - ✏️ 原寫：swith my brain off after a long week｜拼字錯誤，'swith' 應為 'switch'。
+  - 💡 switch... off (phrv.) 關掉、切斷（常用於 switch one's brain off，指讓大腦放空休息）
