@@ -35,3 +35,6 @@
   - 💡 動詞片語，意為「佔...比例」或「解釋、說明」，常與 numbers、percentage 等搭配使用。
 - make up
   - 💡 動詞片語，意指「組成」、「化妝」或「捏造（藉口等）」。
+- come second in
+  - ✏️ 原寫：come second at｜比賽名次應使用介系詞 in，而非 at。
+  - 💡 come second in (片語) 獲得第二名，通常用於比賽或競賽中。
