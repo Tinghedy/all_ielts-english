@@ -38,3 +38,5 @@
 - come second in
   - ✏️ 原寫：come second at｜比賽名次應使用介系詞 in，而非 at。
   - 💡 come second in (片語) 獲得第二名，通常用於比賽或競賽中。
+- over the following ten years
+  - 💡 following (adj.) 接著的、隨後的。常用於表達「在接下來的……期間」 (following + 時間段)。
