@@ -11,3 +11,6 @@
   - 💡 downtime (n. 休息時間、閒暇時間)，常與 spend 或 have 搭配使用。
 - a lot of people spending their time on streaming platform, social media
   - 💡 streaming platform (n. 片語) 串流平台，指提供隨選視訊或音樂服務的網站或應用程式。
+- there are still plenty of people who enjoy reading.
+  - ✏️ 原寫：they are still plenty of people who enjoy reading.｜原句主詞使用代名詞 they 不合文法，表示「有」某物應使用 there are 句型。
+  - 💡 plenty of (片語) 大量的、充足的，後接可數名詞複數或不可數名詞。
