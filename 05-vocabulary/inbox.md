@@ -31,3 +31,5 @@
   - 💡 switch... off (phrv.) 關掉、切斷（常用於 switch one's brain off，指讓大腦放空休息）
 - constitute
   - 💡 動詞，意指「組成、構成」，常用於被動語態 (be constituted of) 或主詞為群體時。
+- account for
+  - 💡 動詞片語，意為「佔...比例」或「解釋、說明」，常與 numbers、percentage 等搭配使用。
