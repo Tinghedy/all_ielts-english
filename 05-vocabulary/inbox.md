@@ -16,3 +16,6 @@
   - 💡 plenty of (片語) 大量的、充足的，後接可數名詞複數或不可數名詞。
 - science fiction novel
   - 💡 n. 科幻小說（指以科學為題材的小說）
+- I love books that are entertaining and can help me pass the time.
+  - ✏️ 原寫：I love the books which are entertaining and can help me pass the boring time.｜which 改用 that 更自然，且 pass time 不需加上 boring，因為 pass the time 本身即指打發時間。
+  - 💡 pass the time (v. phr.) 打發時間；pass time 是常見的搭配詞，用來指消磨空閒時光。
