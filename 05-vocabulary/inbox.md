@@ -57,3 +57,5 @@
   - 💡 adj. 模糊的、費解的；v. 使陰暗、使難理解。常作形容詞用。
 - tuck away
   - 💡 phrv. 收好、藏起來（指將物品妥善收納或將錢存起來），常用於 tuck something away。
+- wrap up the discussion
+  - 💡 phrv. 結束、圓滿完成（討論、會議等），常用搭配為 wrap up a meeting/discussion。
