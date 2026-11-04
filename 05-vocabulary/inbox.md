@@ -49,3 +49,6 @@
 ## 2026-11-04
 - the share 占比
   - 💡 share (n.) 指「份額、比例」，常用搭配如 market share（市占率）。
+- sporadic
+  - ✏️ 原寫：sporatic｜拼字錯誤，正確的拼法應為 sporadic。
+  - 💡 sporadic (adj.) 偶爾發生的，陣發性的；常搭配 sporadic outbreaks / rain。
