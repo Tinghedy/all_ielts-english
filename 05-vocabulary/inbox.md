@@ -55,3 +55,5 @@
 - obscure
   - ✏️ 原寫：obsecure｜單字拼字錯誤，應將中間的 e 改為 u。
   - 💡 adj. 模糊的、費解的；v. 使陰暗、使難理解。常作形容詞用。
+- tuck away
+  - 💡 phrv. 收好、藏起來（指將物品妥善收納或將錢存起來），常用於 tuck something away。
