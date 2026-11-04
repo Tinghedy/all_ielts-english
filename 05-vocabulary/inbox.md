@@ -45,3 +45,7 @@
 - my mom always nags me about cleaning my bedroom.
   - ✏️ 原寫：my mom always nags me about bedroom cleaning.｜房間清潔的動詞片語應為 clean one's bedroom，介系詞 about 後方應接動名詞短語。
   - 💡 nag (v.)嘮叨；nag someone about sth. 表示「因某事對某人嘮叨」。
+
+## 2026-11-04
+- the share 占比
+  - 💡 share (n.) 指「份額、比例」，常用搭配如 market share（市占率）。
