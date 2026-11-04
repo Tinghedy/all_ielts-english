@@ -52,3 +52,6 @@
 - sporadic
   - ✏️ 原寫：sporatic｜拼字錯誤，正確的拼法應為 sporadic。
   - 💡 sporadic (adj.) 偶爾發生的，陣發性的；常搭配 sporadic outbreaks / rain。
+- obscure
+  - ✏️ 原寫：obsecure｜單字拼字錯誤，應將中間的 e 改為 u。
+  - 💡 adj. 模糊的、費解的；v. 使陰暗、使難理解。常作形容詞用。
