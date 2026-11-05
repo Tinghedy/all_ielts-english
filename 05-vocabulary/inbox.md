@@ -88,3 +88,6 @@
   - 💡 動詞片語，意指「被卡住、動彈不得」或「陷入困境」，常用於描述無法前進或解決問題的情況。
 - Chiangmai is known for its old temples.
   - 💡 be known for (phr.) 因......而聞名，常用於介紹地方特色或某人的才華。
+- Um, I want to know about religion in Thailand.
+  - ✏️ 原寫：Um, I want to know about the religion in Thailand.｜不可數名詞 religion 前面不需要定冠詞 the。
+  - 💡 religion (n.) 宗教；信仰。通常作不可數名詞，如 religion in Thailand。
