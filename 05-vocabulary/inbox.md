@@ -77,3 +77,5 @@
   - 💡 捕捉瞬間 (动词短语，capture 意为“捕捉、夺得”，moment 意为“时刻、瞬间”)
 - look back at everything
   - 💡 look back at (phr. v.) 回顧、回想（常接過去的事件或時期）
+- It makes the memory more real.
+  - 💡 make something real (phr.) 使某事變得真實，常用於表達加深印象或記憶。
