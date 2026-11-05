@@ -79,3 +79,6 @@
   - 💡 look back at (phr. v.) 回顧、回想（常接過去的事件或時期）
 - It makes the memory more real.
   - 💡 make something real (phr.) 使某事變得真實，常用於表達加深印象或記憶。
+- impressive
+  - ✏️ 原寫：imoressive｜拼字錯誤，將中間的 o 改為 p。
+  - 💡 impressive (adj.) 令人印象深刻的，表讚嘆或讚美時常用。
