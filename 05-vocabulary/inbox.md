@@ -84,3 +84,5 @@
   - 💡 impressive (adj.) 令人印象深刻的，表讚嘆或讚美時常用。
 - the younger generation
   - 💡 n. 年輕一代，指某個時代中較年輕的人群（常搭配 the younger generation）
+- get stuck
+  - 💡 動詞片語，意指「被卡住、動彈不得」或「陷入困境」，常用於描述無法前進或解決問題的情況。
