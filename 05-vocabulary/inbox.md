@@ -82,3 +82,5 @@
 - impressive
   - ✏️ 原寫：imoressive｜拼字錯誤，將中間的 o 改為 p。
   - 💡 impressive (adj.) 令人印象深刻的，表讚嘆或讚美時常用。
+- the younger generation
+  - 💡 n. 年輕一代，指某個時代中較年輕的人群（常搭配 the younger generation）
