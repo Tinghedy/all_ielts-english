@@ -66,3 +66,5 @@
   - 💡 available (adj.) 可獲得的、可取得的；常用搭配詞為 available to sb.。 biodiversity (n.) 生物多樣性。
 - restrictions on sth... can help VR...
   - 💡 restriction (n.) 限制、約束；通常搭配介系詞 on，表示「對...的限制」。
+- maintain balanced systems
+  - 💡 maintain (v.) 維持、保持；balanced systems (n.) 平衡的系統。
