@@ -68,3 +68,5 @@
   - 💡 restriction (n.) 限制、約束；通常搭配介系詞 on，表示「對...的限制」。
 - maintain balanced systems
   - 💡 maintain (v.) 維持、保持；balanced systems (n.) 平衡的系統。
+- natural habitats
+  - 💡 n. 自然棲息地（常用複數形，指動植物原本生存的自然環境）
