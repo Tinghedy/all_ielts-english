@@ -98,3 +98,5 @@
   - 💡 relax (v.) 放鬆；休息。常用搭配為 relax oneself（偶爾見於非正式用法）或直接用 relax。
 - plan every single thing
   - 💡 plan (v.) 計劃、規劃；every single thing (片語) 每一個細節、每一件事。
+- job hunting
+  - 💡 求職、找工作（名詞片語，常用搭配如 go job hunting）
