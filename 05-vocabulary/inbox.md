@@ -73,3 +73,5 @@
 - breathtaking
   - ✏️ 原寫：breathtking｜拼字錯誤，漏寫了字母 a。
   - 💡 breathtaking (adj.) 令人屏息的、極為驚豔的（常用於形容風景或表演）。
+- capture a moment
+  - 💡 捕捉瞬間 (动词短语，capture 意为“捕捉、夺得”，moment 意为“时刻、瞬间”)
