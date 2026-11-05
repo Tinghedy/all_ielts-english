@@ -91,3 +91,5 @@
 - Um, I want to know about religion in Thailand.
   - ✏️ 原寫：Um, I want to know about the religion in Thailand.｜不可數名詞 religion 前面不需要定冠詞 the。
   - 💡 religion (n.) 宗教；信仰。通常作不可數名詞，如 religion in Thailand。
+- I prefer to take my time and go by myself because if I have a chance to visit another nation, I want to relax, to
+  - 💡 take one's time (片語): 從容不迫、慢慢來，常用於表示不急躁。
