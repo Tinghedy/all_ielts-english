@@ -70,3 +70,6 @@
   - 💡 maintain (v.) 維持、保持；balanced systems (n.) 平衡的系統。
 - natural habitats
   - 💡 n. 自然棲息地（常用複數形，指動植物原本生存的自然環境）
+- breathtaking
+  - ✏️ 原寫：breathtking｜拼字錯誤，漏寫了字母 a。
+  - 💡 breathtaking (adj.) 令人屏息的、極為驚豔的（常用於形容風景或表演）。
