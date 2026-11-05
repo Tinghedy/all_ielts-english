@@ -93,3 +93,6 @@
   - 💡 religion (n.) 宗教；信仰。通常作不可數名詞，如 religion in Thailand。
 - I prefer to take my time and go by myself because if I have a chance to visit another nation, I want to relax, to
   - 💡 take one's time (片語): 從容不迫、慢慢來，常用於表示不急躁。
+- relax
+  - ✏️ 原寫：relax myself｜relax 作為放鬆時為不及物動詞，不需加反身代名詞 myself。
+  - 💡 relax (v.) 放鬆；休息。常用搭配為 relax oneself（偶爾見於非正式用法）或直接用 relax。
