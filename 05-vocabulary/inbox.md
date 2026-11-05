@@ -96,3 +96,5 @@
 - relax
   - ✏️ 原寫：relax myself｜relax 作為放鬆時為不及物動詞，不需加反身代名詞 myself。
   - 💡 relax (v.) 放鬆；休息。常用搭配為 relax oneself（偶爾見於非正式用法）或直接用 relax。
+- plan every single thing
+  - 💡 plan (v.) 計劃、規劃；every single thing (片語) 每一個細節、每一件事。
