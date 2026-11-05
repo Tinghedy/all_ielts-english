@@ -86,3 +86,5 @@
   - 💡 n. 年輕一代，指某個時代中較年輕的人群（常搭配 the younger generation）
 - get stuck
   - 💡 動詞片語，意指「被卡住、動彈不得」或「陷入困境」，常用於描述無法前進或解決問題的情況。
+- Chiangmai is known for its old temples.
+  - 💡 be known for (phr.) 因......而聞名，常用於介紹地方特色或某人的才華。
