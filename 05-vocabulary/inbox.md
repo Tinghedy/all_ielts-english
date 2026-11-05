@@ -64,3 +64,5 @@
 - The destruction of natural habitats threatens biodiversity and reduces the resources available to local communities
   - ✏️ 原寫：The destruction of natural habitats threatens biodiversity and reduce the resources availible to local communities｜動詞與主詞不一致（threatens 為第三人稱單數，and 後的 reduce 應改為 reduces），且 available 拼字錯誤。
   - 💡 available (adj.) 可獲得的、可取得的；常用搭配詞為 available to sb.。 biodiversity (n.) 生物多樣性。
+- restrictions on sth... can help VR...
+  - 💡 restriction (n.) 限制、約束；通常搭配介系詞 on，表示「對...的限制」。
