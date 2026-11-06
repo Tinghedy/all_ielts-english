@@ -156,3 +156,5 @@
   - 💡 大多數的 (片語，majority 為名詞，通常接複數名詞，如 a majority of people)
 - a narrow majority of
   - 💡 n. 險勝的多數、微弱的多數。常用於描述投票或民調中差距很小的多數派。
+- ongoing
+  - 💡 adj. 進行中的，持續發生的（常修飾 process、project、discussion 等名詞）
