@@ -150,3 +150,5 @@
 - represents 50% of my expenditure
   - ✏️ 原寫：represent 50% of my expenditure｜主詞若為單數或不可數名詞，一般現在式的動詞字尾須加 -s。
   - 💡 expenditure (n.) 支出、花費，常用於正式文書或口語中表達金錢的花費。
+- on the whole
+  - 💡 ph. 大體上，總的來說（用以表達從宏觀或整體來看的情況）
