@@ -112,3 +112,5 @@
   - 💡 erratic (adj.) 記號為「不穩定的、反覆無常的」，常用於描述行為、表現或數據時好時壞。
 - sporadic
   - 💡 sporadic (adj.) 偶爾發生的、零星的，常搭配 occurrence 或 outbreak 等詞。
+- Overall, the process consists of [數字] main stages/phases, beginning with [起點] and ending with [終點].
+  - 💡 consist of (v. 包含、組成)，常用於雅思寫作圖表題描述流程或結構。
