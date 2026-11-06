@@ -143,3 +143,5 @@
   - 💡 extravagant (adj.) 奢侈的、揮霍無度的。常用於形容花錢不知節制，如 extravagant lifestyle。
 - financial literacy
   - 💡 財務素養 / 金融文盲反義詞 (n.)，指理解與有效運用各種財務技能（如理財、投資）的能力。
+- make up the money
+  - 💡 動詞片語，湊齊或補足金錢，常見搭配如 make up the difference。
