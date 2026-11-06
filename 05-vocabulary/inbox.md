@@ -147,3 +147,6 @@
   - 💡 動詞片語，湊齊或補足金錢，常見搭配如 make up the difference。
 - monthly budget
   - 💡 每月預算（名词片語，monthly 為形容詞，budget 為名詞，常用搭配詞如 set a monthly budget）
+- represents 50% of my expenditure
+  - ✏️ 原寫：represent 50% of my expenditure｜主詞若為單數或不可數名詞，一般現在式的動詞字尾須加 -s。
+  - 💡 expenditure (n.) 支出、花費，常用於正式文書或口語中表達金錢的花費。
