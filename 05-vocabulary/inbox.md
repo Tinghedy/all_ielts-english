@@ -154,3 +154,5 @@
   - 💡 ph. 大體上，總的來說（用以表達從宏觀或整體來看的情況）
 - a majority of users
   - 💡 大多數的 (片語，majority 為名詞，通常接複數名詞，如 a majority of people)
+- a narrow majority of
+  - 💡 n. 險勝的多數、微弱的多數。常用於描述投票或民調中差距很小的多數派。
