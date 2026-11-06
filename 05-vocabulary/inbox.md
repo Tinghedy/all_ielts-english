@@ -135,3 +135,6 @@
   - 💡 衝動購物（名詞片語），指受一時情緒驅使而購買不需要的物品，常搭配動詞 engage in 或 go on。
 - curb the desire
   - 💡 動詞片語，抑制慾望（curb意為控制、約束，常搭配desire、appetite等）。
+- live on a tight budget
+  - ✏️ 原寫：live on a tight budgt｜單字 budgt 拼字錯誤，漏了一個字母 e，正確為 budget。
+  - 💡 片語，過著拮据的生活。budget (n.) 預算，常搭配 tight（緊縮的）。
