@@ -100,3 +100,7 @@
   - 💡 plan (v.) 計劃、規劃；every single thing (片語) 每一個細節、每一件事。
 - job hunting
   - 💡 求職、找工作（名詞片語，常用搭配如 go job hunting）
+
+## 2026-11-06
+- the matrix
+  - 💡 matrix (n.) 矩陣、母體，常大寫用來指電影《駭客任務》。
