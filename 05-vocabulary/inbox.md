@@ -133,3 +133,5 @@
   - 💡 splurge on (phrasal verb) 揮霍在……上，指花大筆錢買奢侈品或非必需品。
 - impulse buying
   - 💡 衝動購物（名詞片語），指受一時情緒驅使而購買不需要的物品，常搭配動詞 engage in 或 go on。
+- curb the desire
+  - 💡 動詞片語，抑制慾望（curb意為控制、約束，常搭配desire、appetite等）。
