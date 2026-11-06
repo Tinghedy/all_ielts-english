@@ -152,3 +152,5 @@
   - 💡 expenditure (n.) 支出、花費，常用於正式文書或口語中表達金錢的花費。
 - on the whole
   - 💡 ph. 大體上，總的來說（用以表達從宏觀或整體來看的情況）
+- a majority of users
+  - 💡 大多數的 (片語，majority 為名詞，通常接複數名詞，如 a majority of people)
