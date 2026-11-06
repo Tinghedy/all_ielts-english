@@ -122,3 +122,4 @@
   - 💡 clear one's head (片語) 清醒頭腦、拋開雜念，指暫時放鬆或休息以恢復思緒清晰。
 - sense of smell
   - 💡 名詞片語，嗅覺。常用搭配詞有 have a sharp sense of smell（嗅覺敏銳）。
+- stick to a rule
