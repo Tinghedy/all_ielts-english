@@ -127,3 +127,5 @@
   - 💡 n. 漂亮的衣服 (clothes 為複數名詞，常用作不可數或恆複數)
 - splurge on
   - 💡 splurge on (v. phrs.) 揮霍在……上，大手筆購買。常用於 splurge on something。
+- stick to a rule
+  - 💡 動詞片語，遵守規則，其中 to 為介系詞，後面常接原則、計畫或承諾等名詞。
