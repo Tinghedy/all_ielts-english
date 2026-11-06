@@ -138,3 +138,6 @@
 - live on a tight budget
   - ✏️ 原寫：live on a tight budgt｜單字 budgt 拼字錯誤，漏了一個字母 e，正確為 budget。
   - 💡 片語，過著拮据的生活。budget (n.) 預算，常搭配 tight（緊縮的）。
+- extravagant
+  - ✏️ 原寫：extravagent｜拼字錯誤，結尾應為 -ant 而非 -agent。
+  - 💡 extravagant (adj.) 奢侈的、揮霍無度的。常用於形容花錢不知節制，如 extravagant lifestyle。
