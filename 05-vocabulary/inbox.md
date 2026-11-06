@@ -110,3 +110,5 @@
   - 💡 n. 狀態、情形；v. 陳述、聲明（常搭配 state that...）
 - erratic
   - 💡 erratic (adj.) 記號為「不穩定的、反覆無常的」，常用於描述行為、表現或數據時好時壞。
+- sporadic
+  - 💡 sporadic (adj.) 偶爾發生的、零星的，常搭配 occurrence 或 outbreak 等詞。
