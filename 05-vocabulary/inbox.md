@@ -125,3 +125,5 @@
 - stick to a rule
 - nice clothes
   - 💡 n. 漂亮的衣服 (clothes 為複數名詞，常用作不可數或恆複數)
+- splurge on
+  - 💡 splurge on (v. phrs.) 揮霍在……上，大手筆購買。常用於 splurge on something。
