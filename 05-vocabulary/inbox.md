@@ -145,3 +145,5 @@
   - 💡 財務素養 / 金融文盲反義詞 (n.)，指理解與有效運用各種財務技能（如理財、投資）的能力。
 - make up the money
   - 💡 動詞片語，湊齊或補足金錢，常見搭配如 make up the difference。
+- monthly budget
+  - 💡 每月預算（名词片語，monthly 為形容詞，budget 為名詞，常用搭配詞如 set a monthly budget）
