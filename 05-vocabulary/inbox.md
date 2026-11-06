@@ -129,3 +129,5 @@
   - 💡 splurge on (v. phrs.) 揮霍在……上，大手筆購買。常用於 splurge on something。
 - stick to a rule
   - 💡 動詞片語，遵守規則，其中 to 為介系詞，後面常接原則、計畫或承諾等名詞。
+- I occasionally splurge on nice clothes to reward myself
+  - 💡 splurge on (phrasal verb) 揮霍在……上，指花大筆錢買奢侈品或非必需品。
