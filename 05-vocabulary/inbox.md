@@ -120,3 +120,5 @@
   - 💡 n. 住宅區，指專門供人居住的區域，常與 live、move into 等動詞搭配。
 - clear my head
   - 💡 clear one's head (片語) 清醒頭腦、拋開雜念，指暫時放鬆或休息以恢復思緒清晰。
+- sense of smell
+  - 💡 名詞片語，嗅覺。常用搭配詞有 have a sharp sense of smell（嗅覺敏銳）。
