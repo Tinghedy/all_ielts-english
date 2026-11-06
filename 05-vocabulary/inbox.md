@@ -118,3 +118,5 @@
   - 💡 v. 經歷、遭受、接受（手術或訓練等），通常指主體被迫或經歷某種過程。
 - residential area
   - 💡 n. 住宅區，指專門供人居住的區域，常與 live、move into 等動詞搭配。
+- clear my head
+  - 💡 clear one's head (片語) 清醒頭腦、拋開雜念，指暫時放鬆或休息以恢復思緒清晰。
