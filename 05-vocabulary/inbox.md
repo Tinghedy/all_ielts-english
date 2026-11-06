@@ -123,3 +123,5 @@
 - sense of smell
   - 💡 名詞片語，嗅覺。常用搭配詞有 have a sharp sense of smell（嗅覺敏銳）。
 - stick to a rule
+- nice clothes
+  - 💡 n. 漂亮的衣服 (clothes 為複數名詞，常用作不可數或恆複數)
