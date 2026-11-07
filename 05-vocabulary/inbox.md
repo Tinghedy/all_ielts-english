@@ -173,3 +173,5 @@
   - 💡 adj. 便宜的、不貴的（通常指物美價廉，常用於描述商品或服務）
 - regardless of age
   - 💡 regardless of (phr.) 不管、不顧，後接名詞或代名詞，常與 age、gender 等詞搭配使用。
+- priorities
+  - 💡 priority (n.) 優先事項、首要之務。常用複數形 priorities，搭配動詞如 set priorities（設定優先順序）。
