@@ -175,3 +175,5 @@
   - 💡 regardless of (phr.) 不管、不顧，後接名詞或代名詞，常與 age、gender 等詞搭配使用。
 - priorities
   - 💡 priority (n.) 優先事項、首要之務。常用複數形 priorities，搭配動詞如 set priorities（設定優先順序）。
+- lean towards
+  - 💡 lean towards (phr.) 傾向於，偏向……（常接名词或動名词，表示喜好或選擇）。
