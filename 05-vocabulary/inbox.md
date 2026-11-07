@@ -167,3 +167,5 @@
   - 💡 stand out (phr.v.) 突出、引人注目；通常與 to me 搭配，指某事對某人而言特別顯眼。
 - If I have to choose, I would say
   - 💡 choose (v.) 選擇；常用於表達個人偏好，搭配片語如 choose between A and B。
+- prevalent
+  - 💡 adj. 流行的、普遍的，常搭配 trend 或 issue 等字。
