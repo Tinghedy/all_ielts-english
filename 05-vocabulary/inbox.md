@@ -177,3 +177,6 @@
   - 💡 priority (n.) 優先事項、首要之務。常用複數形 priorities，搭配動詞如 set priorities（設定優先順序）。
 - lean towards
   - 💡 lean towards (phr.) 傾向於，偏向……（常接名词或動名词，表示喜好或選擇）。
+- because houses generally offer more privacy and space
+  - ✏️ 原寫：because houses more generally offers generally privacy and space｜原句有單複數不一致的問題（houses 為複數，動詞應用 offer 而非 offers），且副詞 generally 位置重複、more 的位置放錯。
+  - 💡 offer (v.) 提供；動詞，常用搭配為 offer sth. (to sb.) 或 offer sb. sth。
