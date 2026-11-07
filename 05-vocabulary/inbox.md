@@ -182,3 +182,5 @@
   - 💡 offer (v.) 提供；動詞，常用搭配為 offer sth. (to sb.) 或 offer sb. sth。
 - spend quality time
   - 💡 度過優質時光（動詞片語，常用於花時間陪伴家人、朋友或從事有意義的活動）
+- get pretty much anywhere
+  - 💡 pretty much (副詞片語) 幾乎、差不多，用來修飾動詞或形容詞，表程度高。
