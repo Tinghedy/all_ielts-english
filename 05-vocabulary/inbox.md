@@ -180,3 +180,5 @@
 - because houses generally offer more privacy and space
   - ✏️ 原寫：because houses more generally offers generally privacy and space｜原句有單複數不一致的問題（houses 為複數，動詞應用 offer 而非 offers），且副詞 generally 位置重複、more 的位置放錯。
   - 💡 offer (v.) 提供；動詞，常用搭配為 offer sth. (to sb.) 或 offer sb. sth。
+- spend quality time
+  - 💡 度過優質時光（動詞片語，常用於花時間陪伴家人、朋友或從事有意義的活動）
