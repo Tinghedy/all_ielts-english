@@ -171,3 +171,5 @@
   - 💡 adj. 流行的、普遍的，常搭配 trend 或 issue 等字。
 - inexpensive
   - 💡 adj. 便宜的、不貴的（通常指物美價廉，常用於描述商品或服務）
+- regardless of age
+  - 💡 regardless of (phr.) 不管、不顧，後接名詞或代名詞，常與 age、gender 等詞搭配使用。
