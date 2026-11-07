@@ -158,3 +158,7 @@
   - 💡 n. 險勝的多數、微弱的多數。常用於描述投票或民調中差距很小的多數派。
 - ongoing
   - 💡 adj. 進行中的，持續發生的（常修飾 process、project、discussion 等名詞）
+
+## 2026-11-07
+- I'm not familiar with
+  - 💡 familiar with (phr. adj.) 熟悉…，後接名詞或動名詞，常搭配 be V 使用。
