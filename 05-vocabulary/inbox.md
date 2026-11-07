@@ -162,3 +162,6 @@
 ## 2026-11-07
 - I'm not familiar with
   - 💡 familiar with (phr. adj.) 熟悉…，後接名詞或動名詞，常搭配 be V 使用。
+- what stood out to me was that
+  - ✏️ 原寫：what stood out to me that is｜原句中的 that is 文法結構不完整，應改為過去式的 was that 引導子句。
+  - 💡 stand out (phr.v.) 突出、引人注目；通常與 to me 搭配，指某事對某人而言特別顯眼。
