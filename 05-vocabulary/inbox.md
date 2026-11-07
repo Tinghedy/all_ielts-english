@@ -169,3 +169,5 @@
   - 💡 choose (v.) 選擇；常用於表達個人偏好，搭配片語如 choose between A and B。
 - prevalent
   - 💡 adj. 流行的、普遍的，常搭配 trend 或 issue 等字。
+- inexpensive
+  - 💡 adj. 便宜的、不貴的（通常指物美價廉，常用於描述商品或服務）
