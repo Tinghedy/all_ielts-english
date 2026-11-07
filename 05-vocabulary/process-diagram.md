@@ -15,6 +15,7 @@
 | pass over | 越過（上方經過） | 中 | The smoke passes over some bricks. | writing |
 | rise（≠ raise） | 上升（不接受詞） | 高 | The smoke rises into a wooden box. | writing |
 | be channelled into | 被導入 | 低 | The air is channelled into the fire chamber. | writing |
+| splurge on |  | 中 |  | reading |
 
 ## 轉換（變成另一種東西）
 
