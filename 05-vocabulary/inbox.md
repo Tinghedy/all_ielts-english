@@ -203,3 +203,6 @@
   - 💡 manifold (adj.) 多方面的、種類繁多的；常用於正式書面語，形容事物繁多。
 - entrepreneur
   - 💡 n. 企業家，創業家。常搭配 successful entrepreneur（成功的企業家）。
+- I'm fond of sports, especially playing badminton
+  - ✏️ 原寫：I'm fond of sports, especially like playing badminton｜「especially like」中 like 為動詞，不能直接接在副詞後面，應改為分詞 「especially playing」或 「especially I like」。
+  - 💡 be fond of (phr.) 喜歡、愛好（後接名詞或動名詞，常與主詞搭配表示長久喜好）
