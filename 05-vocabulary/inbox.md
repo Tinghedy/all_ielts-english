@@ -197,3 +197,4 @@
   - 💡 prefer A to B (片語) 比起 B 更喜歡 A，介系詞 to 後面接名詞或動名詞 (V-ing)。
 - From my perspective
   - 💡 依我之見；從我的角度來看（片語，常用於表達個人觀點）
+- entrepreneur
