@@ -198,3 +198,6 @@
 - From my perspective
   - 💡 依我之見；從我的角度來看（片語，常用於表達個人觀點）
 - entrepreneur
+- My interests are manifold
+  - ✏️ 原寫：My interest are manifold｜主詞 interest 應改為複數形 interests 以符合複數動詞 are。
+  - 💡 manifold (adj.) 多方面的、種類繁多的；常用於正式書面語，形容事物繁多。
