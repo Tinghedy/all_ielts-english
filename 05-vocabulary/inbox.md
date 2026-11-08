@@ -195,3 +195,5 @@
   - 💡 inspired (adj.) 受鼓舞的、受到啟發的。常用片語為 be inspired by...，表示「被……所激勵或啟發」。
 - I prefer doing to doing
   - 💡 prefer A to B (片語) 比起 B 更喜歡 A，介系詞 to 後面接名詞或動名詞 (V-ing)。
+- From my perspective
+  - 💡 依我之見；從我的角度來看（片語，常用於表達個人觀點）
