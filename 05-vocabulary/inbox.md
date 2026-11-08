@@ -184,3 +184,7 @@
   - 💡 度過優質時光（動詞片語，常用於花時間陪伴家人、朋友或從事有意義的活動）
 - get pretty much anywhere
   - 💡 pretty much (副詞片語) 幾乎、差不多，用來修飾動詞或形容詞，表程度高。
+
+## 2026-11-08
+- The party is just around the corner
+  - 💡 around the corner (片語) 形容（時間或空間上）即將來臨、就在附近。
