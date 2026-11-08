@@ -201,3 +201,5 @@
 - My interests are manifold
   - ✏️ 原寫：My interest are manifold｜主詞 interest 應改為複數形 interests 以符合複數動詞 are。
   - 💡 manifold (adj.) 多方面的、種類繁多的；常用於正式書面語，形容事物繁多。
+- entrepreneur
+  - 💡 n. 企業家，創業家。常搭配 successful entrepreneur（成功的企業家）。
