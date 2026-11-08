@@ -190,3 +190,6 @@
   - 💡 around the corner (片語) 形容（時間或空間上）即將來臨、就在附近。
 - With the advancement in AI
   - 💡 advancement (n.) 發展、進步；advancement in... 表示「在……方面的進展」，常用於正式書面語。
+- I feel inspired by...
+  - ✏️ 原寫：I feel inspired by…
+  - 💡 inspired (adj.) 受鼓舞的、受到啟發的。常用片語為 be inspired by...，表示「被……所激勵或啟發」。
