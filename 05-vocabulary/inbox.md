@@ -206,3 +206,5 @@
 - I'm fond of sports, especially playing badminton
   - ✏️ 原寫：I'm fond of sports, especially like playing badminton｜「especially like」中 like 為動詞，不能直接接在副詞後面，應改為分詞 「especially playing」或 「especially I like」。
   - 💡 be fond of (phr.) 喜歡、愛好（後接名詞或動名詞，常與主詞搭配表示長久喜好）
+- vacancy
+  - 💡 n. 空缺、職缺；房間空位（常搭配 fill a vacancy 填補空缺）。
