@@ -208,3 +208,7 @@
   - 💡 be fond of (phr.) 喜歡、愛好（後接名詞或動名詞，常與主詞搭配表示長久喜好）
 - vacancy
   - 💡 n. 空缺、職缺；房間空位（常搭配 fill a vacancy 填補空缺）。
+
+## 2026-11-09
+- With the advancement of technology
+  - 💡 advancement (n.) 發展、進步；advancement of technology 指科技進步。
