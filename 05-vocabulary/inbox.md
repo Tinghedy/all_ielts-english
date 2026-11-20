@@ -212,3 +212,7 @@
 ## 2026-11-09
 - With the advancement of technology
   - 💡 advancement (n.) 發展、進步；advancement of technology 指科技進步。
+
+## 2026-11-20
+- versatile
+  - 💡 adj. 多才多藝的、多用途的（指人或物能適應多種不同功能或需求）
