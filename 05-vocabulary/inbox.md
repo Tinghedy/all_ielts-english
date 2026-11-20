@@ -219,3 +219,6 @@
 - A smartphone is a versatile tool because you can use it to watch videos, send emails, and play games.
   - ✏️ 原寫：A smartphone is a versatile tools because you can use it to watch videos, send emails, and play games.｜冠詞 'A' 後面接單數名詞，故 'tools' 應改為單數形 'tool'。
   - 💡 versatile (adj.) 多功能的，多才多藝的；可用於描述人、工具或設備適應力強。
+- She is versatile because she has many tools in her toolbox.
+  - ✏️ 原寫：She is versatile because she has many tools in her toolboxes.｜英文慣用語應使用單數型態的 toolbox，而非複數型 toolboxes。
+  - 💡 toolbox (n.) 工具箱；引申為「技能庫」或「解決問題的手段」，常用搭配如 have a deep toolbox。
