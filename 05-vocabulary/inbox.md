@@ -216,3 +216,6 @@
 ## 2026-11-20
 - versatile
   - 💡 adj. 多才多藝的、多用途的（指人或物能適應多種不同功能或需求）
+- A smartphone is a versatile tool because you can use it to watch videos, send emails, and play games.
+  - ✏️ 原寫：A smartphone is a versatile tools because you can use it to watch videos, send emails, and play games.｜冠詞 'A' 後面接單數名詞，故 'tools' 應改為單數形 'tool'。
+  - 💡 versatile (adj.) 多功能的，多才多藝的；可用於描述人、工具或設備適應力強。
