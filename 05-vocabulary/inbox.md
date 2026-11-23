@@ -231,3 +231,5 @@
   - 💡 give something a personal feel (片語) 給人一種個人化、溫馨的感覺。
 - Stylish touches
   - 💡 stylish touches (n. phrs.) 有型的小細節、時髦的点綴，用來形容能提升整體質感的小裝飾或設計。
+- framed photos
+  - 💡 framed photo (n.) 裝框的照片，通常指放進相框裡的相片。
