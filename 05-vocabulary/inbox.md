@@ -226,3 +226,6 @@
 ## 2026-11-23
 - souvenir
   - 💡 n. 紀念品、紀念物，常用搭配如 buy a souvenir（買紀念品）。
+- give a room a personal feel
+  - ✏️ 原寫：give a room personal feel｜名詞 room 前方缺少不定冠詞 a 來限定。
+  - 💡 give something a personal feel (片語) 給人一種個人化、溫馨的感覺。
