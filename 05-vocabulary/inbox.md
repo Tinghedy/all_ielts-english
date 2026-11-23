@@ -222,3 +222,7 @@
 - She is versatile because she has many tools in her toolbox.
   - ✏️ 原寫：She is versatile because she has many tools in her toolboxes.｜英文慣用語應使用單數型態的 toolbox，而非複數型 toolboxes。
   - 💡 toolbox (n.) 工具箱；引申為「技能庫」或「解決問題的手段」，常用搭配如 have a deep toolbox。
+
+## 2026-11-23
+- souvenir
+  - 💡 n. 紀念品、紀念物，常用搭配如 buy a souvenir（買紀念品）。
