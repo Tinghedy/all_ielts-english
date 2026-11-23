@@ -229,3 +229,5 @@
 - give a room a personal feel
   - ✏️ 原寫：give a room personal feel｜名詞 room 前方缺少不定冠詞 a 來限定。
   - 💡 give something a personal feel (片語) 給人一種個人化、溫馨的感覺。
+- Stylish touches
+  - 💡 stylish touches (n. phrs.) 有型的小細節、時髦的点綴，用來形容能提升整體質感的小裝飾或設計。
