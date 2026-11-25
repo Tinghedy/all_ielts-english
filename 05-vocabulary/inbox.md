@@ -237,3 +237,5 @@
 ## 2026-11-25
 - the least 形容詞
   - 💡 least (adj.) 最少的、最小的；the least 用於最高級，表示「最不……」，例如 the least expensive（最便宜的）。
+- The largest proportion of household spending went to housing.
+  - 💡 proportion (n.) 比例；通常搭配介系詞 of 使用。
