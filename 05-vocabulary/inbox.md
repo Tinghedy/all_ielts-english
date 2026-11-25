@@ -244,3 +244,5 @@
 - knack
   - 💡 n. 訣竅、本領，通常作 have a knack for (doing) sth。
 - expenditured
+- expenditure
+  - 💡 n. 花費，支出（不可數，亦可作可數名詞，常用於政府或個人的經費開銷）。
