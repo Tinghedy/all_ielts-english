@@ -233,3 +233,7 @@
   - 💡 stylish touches (n. phrs.) 有型的小細節、時髦的点綴，用來形容能提升整體質感的小裝飾或設計。
 - framed photos
   - 💡 framed photo (n.) 裝框的照片，通常指放進相框裡的相片。
+
+## 2026-11-25
+- the least 形容詞
+  - 💡 least (adj.) 最少的、最小的；the least 用於最高級，表示「最不……」，例如 the least expensive（最便宜的）。
