@@ -241,3 +241,5 @@
   - 💡 proportion (n.) 比例；通常搭配介系詞 of 使用。
 - reciprocity
   - 💡 n. 互惠，相互對待（指雙方互相給予或提供利益、權利等）。
+- knack
+  - 💡 n. 訣竅、本領，通常作 have a knack for (doing) sth。
