@@ -243,3 +243,4 @@
   - 💡 n. 互惠，相互對待（指雙方互相給予或提供利益、權利等）。
 - knack
   - 💡 n. 訣竅、本領，通常作 have a knack for (doing) sth。
+- expenditured
