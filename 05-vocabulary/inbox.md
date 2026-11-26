@@ -258,3 +258,5 @@
   - 💡 cut in line (v. phrs.) 插隊、排隊時插到前面。
 - Adjacent
   - 💡 adj. 鄰接的、毗連的。常用於描述土地或房間相鄰，常搭配介系詞 to（be adjacent to）。
+- Redundancy
+  - 💡 n. 冗員、過剩；指因重複或不需要而遭裁員或刪減的情況。
