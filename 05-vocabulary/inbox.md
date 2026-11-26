@@ -271,3 +271,5 @@
   - 💡 burgeon (v.) 迅速成長、發展。常用於經濟、城市或關係等。
 - prosperous
   - 💡 adj. 繁榮的、興旺的（常用於形容經濟、國家或企業，如 a prosperous economy）
+- discerning
+  - 💡 discerning (adj.) 有辨別能力的，具備慧眼的。常用於形容對藝術、品質等有高度鑑賞力（常搭配 taste 或 eye）。
