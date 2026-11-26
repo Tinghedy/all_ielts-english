@@ -256,3 +256,5 @@
 - cut in line
   - ✏️ 原寫：cut the line｜表示插隊時，正確的慣用語是 cut in line 而不是 cut the line。
   - 💡 cut in line (v. phrs.) 插隊、排隊時插到前面。
+- Adjacent
+  - 💡 adj. 鄰接的、毗連的。常用於描述土地或房間相鄰，常搭配介系詞 to（be adjacent to）。
