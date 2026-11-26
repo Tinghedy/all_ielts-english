@@ -251,3 +251,5 @@
 - taxonomy
   - ✏️ 原寫：taxomony｜拼字錯誤，字母 'o' 多打成 'om'。
   - 💡 taxonomy (n.) 分類學，指對生物或其他事物進行系統性分類的科學或方法。
+- astronaut
+  - 💡 n. 太空人，航天員（常搭配太空梭 space shuttle 或太空站 space station）。
