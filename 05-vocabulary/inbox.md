@@ -269,3 +269,5 @@
 ## 2026-11-27
 - burgeon
   - 💡 burgeon (v.) 迅速成長、發展。常用於經濟、城市或關係等。
+- prosperous
+  - 💡 adj. 繁榮的、興旺的（常用於形容經濟、國家或企業，如 a prosperous economy）
