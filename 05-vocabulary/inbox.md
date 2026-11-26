@@ -262,3 +262,6 @@
   - 💡 n. 冗員、過剩；指因重複或不需要而遭裁員或刪減的情況。
 - amenity
   - 💡 n. 便利設施，常用複數 amenities；指讓生活更舒適的設備或服務。
+- The house has two floors and three bedrooms.
+  - ✏️ 原寫：Bullet The house has two floors and three bedrooms.｜開頭多了一個多餘的單字 Bullet。
+  - 💡 floor (n.) 樓層；通常指建築物的地面以上各層。
