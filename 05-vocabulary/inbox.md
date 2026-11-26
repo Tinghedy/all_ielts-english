@@ -265,3 +265,7 @@
 - The house has two floors and three bedrooms.
   - ✏️ 原寫：Bullet The house has two floors and three bedrooms.｜開頭多了一個多餘的單字 Bullet。
   - 💡 floor (n.) 樓層；通常指建築物的地面以上各層。
+
+## 2026-11-27
+- burgeon
+  - 💡 burgeon (v.) 迅速成長、發展。常用於經濟、城市或關係等。
