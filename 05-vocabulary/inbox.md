@@ -253,3 +253,6 @@
   - 💡 taxonomy (n.) 分類學，指對生物或其他事物進行系統性分類的科學或方法。
 - astronaut
   - 💡 n. 太空人，航天員（常搭配太空梭 space shuttle 或太空站 space station）。
+- cut in line
+  - ✏️ 原寫：cut the line｜表示插隊時，正確的慣用語是 cut in line 而不是 cut the line。
+  - 💡 cut in line (v. phrs.) 插隊、排隊時插到前面。
