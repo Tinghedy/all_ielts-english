@@ -378,3 +378,6 @@
   - ✏️ 原寫：brilliant career prospect｜「prospect」表示前途或展望時，通常使用複數形「prospects」。
   - 💡 n. 職業前景、職涯展望（通常用複數形 prospects，常搭配 brilliant 或 promising）
   - 📝 Graduates with degrees in artificial intelligence enjoy brilliant career prospects in the modern tech industry. (擁有人工智慧學位的畢業生在現代科技產業中享有光明的前途。)
+- leave a bad impression
+  - 💡 片語，留下壞印象。動詞 leave 搭配名詞 impression，常與介系詞 on 連用。
+  - 📝 Arriving late to a job interview will leave a bad impression on the hiring manager. (面試遲到會給招募主管留下不好的印象。)
