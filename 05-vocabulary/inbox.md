@@ -286,3 +286,6 @@
   - ✏️ 原寫：agreegation｜拼字錯誤，agreegation 的正確拼法為 aggregation。
   - 💡 aggregation n. 聚集，集合（常與 data 或 information 搭配，指數據的彙整）
   - 📝 The report is based on the aggregation of data from various sources. (該報告是基於來自各個來源的數據彙整。)
+- from an aesthetic perspective
+  - 💡 aesthetic (adj.) 美學的；具有審美價值的。常用搭配詞如 aesthetic perspective（美學觀點）、aesthetic value（美學價值）。
+  - 📝 From an aesthetic perspective, the new museum building is a masterpiece of modern architecture. (從美學觀點來看，這座新的博物館建築是現代建築的傑作。)
