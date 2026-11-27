@@ -275,3 +275,5 @@
   - 💡 discerning (adj.) 有辨別能力的，具備慧眼的。常用於形容對藝術、品質等有高度鑑賞力（常搭配 taste 或 eye）。
 - excavate
   - 💡 動詞，意指「挖掘、開鑿」，常用於考古發掘或土木工程，如 excavate a site（開挖遺址）。
+- break even
+  - 💡 break even (phr. v.) 損益兩平、打平，指收入與支出相等。
