@@ -387,3 +387,7 @@
 - design my own piece of furniture
   - 💡 piece of furniture (n. 片語) 家具的計算單位，通常一獨立件家具就用 a piece of furniture。
   - 📝 Many modern apartments are too small to fit a large piece of furniture. (許多現代公寓太小，放不下大型家具。)
+- I consider myself
+  - ✏️ 原寫：I consider myself as｜consider 後方直接接受詞和受詞補語，不需要加 as。
+  - 💡 consider (v.) 認為、視為；用法為 consider + 受詞 + (as) 形容詞/名詞。
+  - 📝 I consider myself fortunate to have the opportunity to study abroad. (我覺得自己很幸運能有出國留學的機會。)
