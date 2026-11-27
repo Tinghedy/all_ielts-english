@@ -419,3 +419,6 @@
   - ✏️ 原寫：close knit｜複合形容詞「緊密相連的」中間應加上連字號（hyphen）。
   - 💡 close-knit (adj.) 緊密相連的，關係親密的（常用於 family、community 等搭配）
   - 📝 Living in a close-knit community helps elderly residents feel safer and more supported. (住在一個關係緊密的社區有助於年長居民感到更安全、獲得更多支持。)
+- respectable salary
+  - 💡 adj. 可觀的、相當不錯的薪水（用來形容數量或水準令人滿意，常與 salary、income 連用）
+  - 📝 Many graduates expect to secure a respectable salary after completing their master's degrees. (許多畢業生期望在完成碩士學位後能獲得一份相當不錯的薪水。)
