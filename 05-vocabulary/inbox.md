@@ -289,3 +289,6 @@
 - from an aesthetic perspective
   - 💡 aesthetic (adj.) 美學的；具有審美價值的。常用搭配詞如 aesthetic perspective（美學觀點）、aesthetic value（美學價值）。
   - 📝 From an aesthetic perspective, the new museum building is a masterpiece of modern architecture. (從美學觀點來看，這座新的博物館建築是現代建築的傑作。)
+- It has become increasingly common that
+  - 💡 adj. 常見的、普遍的（作形容詞，常搭配 be become common 或 common practice）
+  - 📝 Remote work has become increasingly common in the tech industry. (遠距工作在科技業變得日益普遍。)
