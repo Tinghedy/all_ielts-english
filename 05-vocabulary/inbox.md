@@ -412,3 +412,6 @@
 - hospitable
   - 💡 adj. 好客的，殷勤的（常搭配 welcome, receive 等動詞）
   - 📝 The local community was remarkably hospitable to international researchers. (當地社區對國際研究人員非常熱情好客。)
+- property price
+  - 💡 n. [C] 房地產價格，指房屋或土地的市場買賣價格（常與 market, rise, fall 等詞搭配）。
+  - 📝 Rising property prices in major cities have made it difficult for young adults to buy a home. (主要城市不斷上漲的房價使得年輕人很難買房。)
