@@ -355,3 +355,7 @@
 - hands-on experience
   - 💡 n. 實作經驗、實務經驗（常用作不可數名詞，形容詞用法常置於名詞前方）
   - 📝 University graduates often lack the hands-on experience required by modern employers. (大學畢業生經常缺乏現代雇主所要求的實務經驗。)
+- 3D modeling
+  - ✏️ 原寫：3D-modeling｜3D-modeling 通常直接寫作 3D modeling，中間不需要連字號。
+  - 💡 3D modeling (n. phr.) 3D 模型製作 / 三維建模，常用於設計、工程與科技領域。
+  - 📝 Advanced 3D modeling software allows architects to visualize complex structures before construction begins. (先進的三維建模軟體讓建築師在施工開始前就能將複雜的結構視覺化。)
