@@ -322,3 +322,6 @@
 - high-rise building
   - 💡 n. 高樓，指樓層眾多的大廈（常用於都市計畫與居住環境主題）。
   - 📝 Many modern cities are densely populated with high-rise buildings. (許多現代城市都密布著高樓大廈。)
+- step out of one's comfort zone
+  - 💡 phr. 走出舒適圈，指離開熟悉且感到安全的事物去嘗試新挑戰 (v.)。
+  - 📝 To achieve career advancement, professionals often need to step out of their comfort zones. (為了獲得職業發展，專業人士經常需要走出他們的舒適圈。)
