@@ -282,3 +282,7 @@
 - coordinate
   - 💡 v. 協調、配合 (collocation: coordinate a project/effort)
   - 📝 The marketing team must coordinate closely with the sales department to launch the new product successfully. (行銷團隊必須與業務部門密切協調，才能成功推出新產品。)
+- aggregation
+  - ✏️ 原寫：agreegation｜拼字錯誤，agreegation 的正確拼法為 aggregation。
+  - 💡 aggregation n. 聚集，集合（常與 data 或 information 搭配，指數據的彙整）
+  - 📝 The report is based on the aggregation of data from various sources. (該報告是基於來自各個來源的數據彙整。)
