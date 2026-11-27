@@ -400,3 +400,6 @@
 - meet up
   - 💡 phrv. 見面、聚會（不及詞片語，常與 with 搭配使用，如 meet up with friends）
   - 📝 I need to meet up with my project team after class to discuss the presentation. (我下課後需要和專案團隊見面討論簡報。)
+- exceptionally
+  - 💡 adv. 非常地，異常地（常修飾形容詞或副詞，如 exceptionally well / exceptionally high）
+  - 📝 The candidate demonstrated exceptionally strong leadership skills during the group task. (這位候選人在群體任務中展現出異常強大的領導能力。)
