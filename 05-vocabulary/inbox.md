@@ -298,3 +298,6 @@
 - notation
   - 💡 n. 符號系統，記號法（常用於數學、音樂或學術論文中的標示方式）
   - 📝 The researcher used a complex mathematical notation to explain the data. (研究人員使用複雜的數學符號系統來解釋數據。)
+- symmetry
+  - 💡 n. 對稱（指兩邊形狀、大小或排列完全相符），常搭配形容詞 perfect symmetry 或介詞 in symmetry。
+  - 📝 The modern art museum was designed with striking geometric symmetry. (這座現代美術館的設計具有驚人的幾何對稱美感。)
