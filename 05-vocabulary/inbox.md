@@ -415,3 +415,7 @@
 - property price
   - 💡 n. [C] 房地產價格，指房屋或土地的市場買賣價格（常與 market, rise, fall 等詞搭配）。
   - 📝 Rising property prices in major cities have made it difficult for young adults to buy a home. (主要城市不斷上漲的房價使得年輕人很難買房。)
+- close-knit
+  - ✏️ 原寫：close knit｜複合形容詞「緊密相連的」中間應加上連字號（hyphen）。
+  - 💡 close-knit (adj.) 緊密相連的，關係親密的（常用於 family、community 等搭配）
+  - 📝 Living in a close-knit community helps elderly residents feel safer and more supported. (住在一個關係緊密的社區有助於年長居民感到更安全、獲得更多支持。)
