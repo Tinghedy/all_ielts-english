@@ -359,3 +359,6 @@
   - ✏️ 原寫：3D-modeling｜3D-modeling 通常直接寫作 3D modeling，中間不需要連字號。
   - 💡 3D modeling (n. phr.) 3D 模型製作 / 三維建模，常用於設計、工程與科技領域。
   - 📝 Advanced 3D modeling software allows architects to visualize complex structures before construction begins. (先進的三維建模軟體讓建築師在施工開始前就能將複雜的結構視覺化。)
+- heavy workload
+  - 💡 n. 沉重的工作量，常用搭配如 handle a heavy workload (應付繁重的工作量)
+  - 📝 Many university students struggle to balance a heavy workload and part-time jobs. (許多大學生很難在繁重的工作量和兼職工作之間取得平衡。)
