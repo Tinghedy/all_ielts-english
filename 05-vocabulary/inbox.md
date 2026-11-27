@@ -425,3 +425,6 @@
 - save up
   - 💡 phrv. 存錢，節省金錢以備後用（常與 for 搭配）
   - 📝 Many young professionals try to save up for a down payment on a house. (許多青年專業人士努力存錢來支付房屋頭期款。)
+- deposit
+  - 💡 n. / v. 訂金、保證金；存款、存放（v. deposit money in a bank）
+  - 📝 Students are required to pay a refundable housing deposit before the semester starts. (學生必須在學期開始前繳交可退還的住宿押金。)
