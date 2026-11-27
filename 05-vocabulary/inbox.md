@@ -346,3 +346,6 @@
 - infrastructure
   - 💡 n. 基礎建設，指國家或組織運作所需的實體或組織架構（常用搭配詞如 develop/improve infrastructure）。
   - 📝 The government needs to invest more in public transport infrastructure to reduce traffic congestion. (政府需要投資更多在公共交通基礎設施以減少交通擁擠。)
+- subsidy
+  - 💡 n. 補助金、津貼，常與動詞 provide 或 receive 搭配使用。
+  - 📝 The government plans to provide a subsidy for renewable energy projects. (政府計劃為再生能源項目提供補助金。)
