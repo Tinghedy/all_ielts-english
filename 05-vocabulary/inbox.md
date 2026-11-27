@@ -313,3 +313,6 @@
 - tube
   - 💡 n. 地鐵（尤指倫敦地下鐵，常用複數或 the tube）；管子
   - 📝 Many Londoners prefer taking the tube to work to avoid heavy traffic congestion. (許多倫敦人偏好搭乘地鐵上班，以避開嚴重的交通擁堵。)
+- high-paying job
+  - 💡 high-paying (adj.) 薪資高的，常與 job、career、position 等搭配使用。
+  - 📝 Securing a high-paying job in the tech industry requires advanced coding skills. (在科技業找到一份高薪工作需要先進的程式編寫技能。)
