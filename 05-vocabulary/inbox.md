@@ -403,3 +403,6 @@
 - exceptionally
   - 💡 adv. 非常地，異常地（常修飾形容詞或副詞，如 exceptionally well / exceptionally high）
   - 📝 The candidate demonstrated exceptionally strong leadership skills during the group task. (這位候選人在群體任務中展現出異常強大的領導能力。)
+- metro system
+  - 💡 n. 大眾捷運系統，常用於都會區的交通運輸討論 (C1)
+  - 📝 Expanding the metro system can significantly reduce traffic congestion in large cities. (擴建捷運系統可以顯著減少大都會區的交通擁擠。)
