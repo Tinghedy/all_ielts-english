@@ -397,3 +397,6 @@
 - get annoyed
   - 💡 感到生氣、惱怒 (v.phr.)，常接介系詞 at 或 with（e.g., get annoyed at something）。
   - 📝 Many employees get annoyed when their managers micromanage their daily tasks. (許多員工在經理過度干預他們的日常工作時會感到惱怒。)
+- meet up
+  - 💡 phrv. 見面、聚會（不及詞片語，常與 with 搭配使用，如 meet up with friends）
+  - 📝 I need to meet up with my project team after class to discuss the presentation. (我下課後需要和專案團隊見面討論簡報。)
