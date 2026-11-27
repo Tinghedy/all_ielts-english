@@ -362,3 +362,6 @@
 - heavy workload
   - 💡 n. 沉重的工作量，常用搭配如 handle a heavy workload (應付繁重的工作量)
   - 📝 Many university students struggle to balance a heavy workload and part-time jobs. (許多大學生很難在繁重的工作量和兼職工作之間取得平衡。)
+- cutting-edge
+  - 💡 adj. 尖端的、最先進的（常修飾 technology、research 等名詞）
+  - 📝 Universities are investing heavily in cutting-edge research facilities to attract top students. (大學正大力投資尖端研究設施以吸引頂尖學生。)
