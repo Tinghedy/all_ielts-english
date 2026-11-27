@@ -384,3 +384,6 @@
 - 《Goodbye Robot》
   - 💡 robot (n.) 機器人，指能自動執行複雜操作的機械裝置；常搭配動詞 program 或 build。
   - 📝 Engineers are trying to program the robot to perform dangerous tasks in factories. (工程師們正試圖為機器人編程，以便在工廠中執行危險任務。)
+- design my own piece of furniture
+  - 💡 piece of furniture (n. 片語) 家具的計算單位，通常一獨立件家具就用 a piece of furniture。
+  - 📝 Many modern apartments are too small to fit a large piece of furniture. (許多現代公寓太小，放不下大型家具。)
