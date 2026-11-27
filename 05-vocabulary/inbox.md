@@ -331,3 +331,6 @@
 - wind down
   - 💡 phrv. 放鬆、歇息（指工作或忙碌後漸漸放鬆心情，常搭配 after work / for the day）
   - 📝 Many professionals listen to soothing music to wind down after a long day at the office. (許多專業人士在辦公室工作了一整天後，會聽舒緩的音樂來放鬆身心。)
+- hit the sack
+  - 💡 ph. 意思是「去睡覺、就寢」（動詞片語，常用於非正式口語，同义詞為 hit the hay）。
+  - 📝 After working on the IELTS essay for hours, I am ready to hit the sack. (在寫了幾個小時的雅思作文後，我準備去睡覺了。)
