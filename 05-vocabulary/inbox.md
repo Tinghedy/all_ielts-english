@@ -381,3 +381,6 @@
 - leave a bad impression
   - 💡 片語，留下壞印象。動詞 leave 搭配名詞 impression，常與介系詞 on 連用。
   - 📝 Arriving late to a job interview will leave a bad impression on the hiring manager. (面試遲到會給招募主管留下不好的印象。)
+- 《Goodbye Robot》
+  - 💡 robot (n.) 機器人，指能自動執行複雜操作的機械裝置；常搭配動詞 program 或 build。
+  - 📝 Engineers are trying to program the robot to perform dangerous tasks in factories. (工程師們正試圖為機器人編程，以便在工廠中執行危險任務。)
