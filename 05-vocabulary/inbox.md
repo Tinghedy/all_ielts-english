@@ -349,3 +349,6 @@
 - subsidy
   - 💡 n. 補助金、津貼，常與動詞 provide 或 receive 搭配使用。
   - 📝 The government plans to provide a subsidy for renewable energy projects. (政府計劃為再生能源項目提供補助金。)
+- alleviate
+  - 💡 vt. 減輕、緩和（痛苦、問題等），常與 poverty, stress, symptoms 搭配。
+  - 📝 Governments must take immediate action to alleviate poverty in rural areas. (政府必須採取立即行動來減輕農村地區的貧窮。)
