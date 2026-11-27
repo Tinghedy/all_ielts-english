@@ -428,3 +428,6 @@
 - deposit
   - 💡 n. / v. 訂金、保證金；存款、存放（v. deposit money in a bank）
   - 📝 Students are required to pay a refundable housing deposit before the semester starts. (學生必須在學期開始前繳交可退還的住宿押金。)
+- illuminate
+  - 💡 vt. 闡明、解釋；照亮。常搭配 issue、problem 等抽象名詞，表釐清複雜概念。
+  - 📝 The latest research illuminates the complex relationship between diet and longevity. (這項最新研究闡明瞭飲食與長壽之間複雜的關係。)
