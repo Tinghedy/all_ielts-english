@@ -295,3 +295,6 @@
 - commodity
   - 💡 n. 商品、貨物；有價值的東西（常指農產品或礦產等原材料，可作不可數或可數名詞）。
   - 📝 Water is becoming a scarce commodity in many parts of the world. (水在世界許多地區正逐漸成為稀缺商品。)
+- notation
+  - 💡 n. 符號系統，記號法（常用於數學、音樂或學術論文中的標示方式）
+  - 📝 The researcher used a complex mathematical notation to explain the data. (研究人員使用複雜的數學符號系統來解釋數據。)
