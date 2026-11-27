@@ -316,3 +316,6 @@
 - high-paying job
   - 💡 high-paying (adj.) 薪資高的，常與 job、career、position 等搭配使用。
   - 📝 Securing a high-paying job in the tech industry requires advanced coding skills. (在科技業找到一份高薪工作需要先進的程式編寫技能。)
+- laid-back
+  - 💡 adj. 放鬆的、悠閒的（形容人或環境隨和、不拘小節），常搭配 atmosphere 或 attitude。
+  - 📝 The university provides a laid-back learning environment for students to explore their interests. (這所大學為學生提供了一個輕鬆的學習環境來探索他們的興趣。)
