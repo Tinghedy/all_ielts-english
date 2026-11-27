@@ -409,3 +409,6 @@
 - widely known as
   - 💡 ph. 廣泛被知悉為，常用於介紹某人或某物的稱號或身分
   - 📝 Marie Curie is widely known as a pioneer in the field of radioactivity. (居禮夫人被廣泛認為是放射線領域的先驅。)
+- hospitable
+  - 💡 adj. 好客的，殷勤的（常搭配 welcome, receive 等動詞）
+  - 📝 The local community was remarkably hospitable to international researchers. (當地社區對國際研究人員非常熱情好客。)
