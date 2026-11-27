@@ -422,3 +422,6 @@
 - respectable salary
   - 💡 adj. 可觀的、相當不錯的薪水（用來形容數量或水準令人滿意，常與 salary、income 連用）
   - 📝 Many graduates expect to secure a respectable salary after completing their master's degrees. (許多畢業生期望在完成碩士學位後能獲得一份相當不錯的薪水。)
+- save up
+  - 💡 phrv. 存錢，節省金錢以備後用（常與 for 搭配）
+  - 📝 Many young professionals try to save up for a down payment on a house. (許多青年專業人士努力存錢來支付房屋頭期款。)
