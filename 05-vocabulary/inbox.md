@@ -319,3 +319,6 @@
 - laid-back
   - 💡 adj. 放鬆的、悠閒的（形容人或環境隨和、不拘小節），常搭配 atmosphere 或 attitude。
   - 📝 The university provides a laid-back learning environment for students to explore their interests. (這所大學為學生提供了一個輕鬆的學習環境來探索他們的興趣。)
+- high-rise building
+  - 💡 n. 高樓，指樓層眾多的大廈（常用於都市計畫與居住環境主題）。
+  - 📝 Many modern cities are densely populated with high-rise buildings. (許多現代城市都密布著高樓大廈。)
