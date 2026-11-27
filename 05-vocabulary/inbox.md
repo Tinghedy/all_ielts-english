@@ -352,3 +352,6 @@
 - alleviate
   - 💡 vt. 減輕、緩和（痛苦、問題等），常與 poverty, stress, symptoms 搭配。
   - 📝 Governments must take immediate action to alleviate poverty in rural areas. (政府必須採取立即行動來減輕農村地區的貧窮。)
+- hands-on experience
+  - 💡 n. 實作經驗、實務經驗（常用作不可數名詞，形容詞用法常置於名詞前方）
+  - 📝 University graduates often lack the hands-on experience required by modern employers. (大學畢業生經常缺乏現代雇主所要求的實務經驗。)
