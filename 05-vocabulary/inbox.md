@@ -374,3 +374,7 @@
 - plenty of hands-on experience
   - 💡 hands-on experience (n. 片語) 指「實作經驗 / 動手做的經驗」，常搭配 gain 或 acquire 等動詞使用。
   - 📝 Internships allow students to gain plenty of hands-on experience before graduation. (實習讓學生在畢業前能獲得豐富的實作經驗。)
+- brilliant career prospects
+  - ✏️ 原寫：brilliant career prospect｜「prospect」表示前途或展望時，通常使用複數形「prospects」。
+  - 💡 n. 職業前景、職涯展望（通常用複數形 prospects，常搭配 brilliant 或 promising）
+  - 📝 Graduates with degrees in artificial intelligence enjoy brilliant career prospects in the modern tech industry. (擁有人工智慧學位的畢業生在現代科技產業中享有光明的前途。)
