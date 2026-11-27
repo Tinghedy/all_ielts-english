@@ -310,3 +310,6 @@
 - across the street
   - 💡 prep. 越過街道，在街對面（常用於描述地理位置或方向）
   - 📝 The public library is located just across the street from my office. (公共圖書館就位於我辦公室的街對面。)
+- tube
+  - 💡 n. 地鐵（尤指倫敦地下鐵，常用複數或 the tube）；管子
+  - 📝 Many Londoners prefer taking the tube to work to avoid heavy traffic congestion. (許多倫敦人偏好搭乘地鐵上班，以避開嚴重的交通擁堵。)
