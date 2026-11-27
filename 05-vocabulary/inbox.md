@@ -279,3 +279,6 @@
   - 💡 break even (phr. v.) 損益兩平、打平，指收入與支出相等。
 - cater to
   - 💡 phrv. 迎合、滿足（需求等），常與 needs 或 tastes 搭配。
+- coordinate
+  - 💡 v. 協調、配合 (collocation: coordinate a project/effort)
+  - 📝 The marketing team must coordinate closely with the sales department to launch the new product successfully. (行銷團隊必須與業務部門密切協調，才能成功推出新產品。)
