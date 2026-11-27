@@ -325,3 +325,6 @@
 - step out of one's comfort zone
   - 💡 phr. 走出舒適圈，指離開熟悉且感到安全的事物去嘗試新挑戰 (v.)。
   - 📝 To achieve career advancement, professionals often need to step out of their comfort zones. (為了獲得職業發展，專業人士經常需要走出他們的舒適圈。)
+- stays with you long after the credits roll
+  - 💡 stay with someone (片語) 留下深刻印象、讓人難忘（常指電影、音樂或經驗）
+  - 📝 The documentary about climate change stays with you long after the credits roll. (關於氣候變遷的那部紀錄片在影片結束後很久依然讓人印象深刻。)
