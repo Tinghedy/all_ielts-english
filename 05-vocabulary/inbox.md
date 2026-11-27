@@ -277,3 +277,5 @@
   - 💡 動詞，意指「挖掘、開鑿」，常用於考古發掘或土木工程，如 excavate a site（開挖遺址）。
 - break even
   - 💡 break even (phr. v.) 損益兩平、打平，指收入與支出相等。
+- cater to
+  - 💡 phrv. 迎合、滿足（需求等），常與 needs 或 tastes 搭配。
