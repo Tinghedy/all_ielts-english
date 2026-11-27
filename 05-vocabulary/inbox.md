@@ -301,3 +301,6 @@
 - symmetry
   - 💡 n. 對稱（指兩邊形狀、大小或排列完全相符），常搭配形容詞 perfect symmetry 或介詞 in symmetry。
   - 📝 The modern art museum was designed with striking geometric symmetry. (這座現代美術館的設計具有驚人的幾何對稱美感。)
+- inextricably
+  - 💡 副詞，密不可分地、逃不掉地。常與 bind、linked、connected 等詞搭配使用。
+  - 📝 Economic development is inextricably linked with environmental protection. (經濟發展與環境保護密不可分。)
