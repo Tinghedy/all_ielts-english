@@ -406,3 +406,6 @@
 - metro system
   - 💡 n. 大眾捷運系統，常用於都會區的交通運輸討論 (C1)
   - 📝 Expanding the metro system can significantly reduce traffic congestion in large cities. (擴建捷運系統可以顯著減少大都會區的交通擁擠。)
+- widely known as
+  - 💡 ph. 廣泛被知悉為，常用於介紹某人或某物的稱號或身分
+  - 📝 Marie Curie is widely known as a pioneer in the field of radioactivity. (居禮夫人被廣泛認為是放射線領域的先驅。)
