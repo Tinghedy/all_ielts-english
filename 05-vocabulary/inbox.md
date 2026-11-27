@@ -328,3 +328,6 @@
 - stays with you long after the credits roll
   - 💡 stay with someone (片語) 留下深刻印象、讓人難忘（常指電影、音樂或經驗）
   - 📝 The documentary about climate change stays with you long after the credits roll. (關於氣候變遷的那部紀錄片在影片結束後很久依然讓人印象深刻。)
+- wind down
+  - 💡 phrv. 放鬆、歇息（指工作或忙碌後漸漸放鬆心情，常搭配 after work / for the day）
+  - 📝 Many professionals listen to soothing music to wind down after a long day at the office. (許多專業人士在辦公室工作了一整天後，會聽舒緩的音樂來放鬆身心。)
