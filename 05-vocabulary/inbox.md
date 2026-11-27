@@ -394,3 +394,6 @@
 - on time
   - 💡 phr. 準時，按時（指剛好在預定時間）
   - 📝 It is crucial for employees to arrive at the office on time. (員工準時到達辦公室至關重要。)
+- get annoyed
+  - 💡 感到生氣、惱怒 (v.phr.)，常接介系詞 at 或 with（e.g., get annoyed at something）。
+  - 📝 Many employees get annoyed when their managers micromanage their daily tasks. (許多員工在經理過度干預他們的日常工作時會感到惱怒。)
