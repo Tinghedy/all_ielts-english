@@ -371,3 +371,6 @@
 - get around
   - 💡 (phrasal verb) 四處走動、旅行；（消息等）流傳。常搭配城市或交通方式使用。
   - 📝 Public transportation makes it much easier to get around the city. (大眾運輸讓人們更容易在城市中四處移動。)
+- plenty of hands-on experience
+  - 💡 hands-on experience (n. 片語) 指「實作經驗 / 動手做的經驗」，常搭配 gain 或 acquire 等動詞使用。
+  - 📝 Internships allow students to gain plenty of hands-on experience before graduation. (實習讓學生在畢業前能獲得豐富的實作經驗。)
