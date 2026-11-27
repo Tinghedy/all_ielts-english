@@ -365,3 +365,6 @@
 - cutting-edge
   - 💡 adj. 尖端的、最先進的（常修飾 technology、research 等名詞）
   - 📝 Universities are investing heavily in cutting-edge research facilities to attract top students. (大學正大力投資尖端研究設施以吸引頂尖學生。)
+- fairly
+  - 💡 副詞，相當地、頗（用於修飾形容詞或副詞，程度小於 very）。
+  - 📝 The lecture on climate change was fairly interesting. (那場關於氣候變遷的講座相當有趣。)
