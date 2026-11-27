@@ -304,3 +304,6 @@
 - inextricably
   - 💡 副詞，密不可分地、逃不掉地。常與 bind、linked、connected 等詞搭配使用。
   - 📝 Economic development is inextricably linked with environmental protection. (經濟發展與環境保護密不可分。)
+- in view of
+  - 💡 prep. 鑑於，由於（常置於句首或句中，表原因或考量因素）
+  - 📝 In view of the rising sea levels, coastal cities must upgrade their infrastructure. (鑑於海平面上升，沿海城市必須升級其基礎設施。)
