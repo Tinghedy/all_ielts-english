@@ -340,3 +340,6 @@
 - a steady stream of
   - 💡 片語，源源不絕的、持續不斷的人事物（常接複數名詞）。
   - 📝 Modern cities generate a steady stream of data every single second. (現代城市每一秒都在產生源源不絕的數據。)
+- curb emissions
+  - 💡 v. 控制、抑制（排放量），常與 greenhouse gases 或 carbon 搭配使用
+  - 📝 Governments must take immediate action to curb emissions and combat global warming. (政府必須立即採取行動來抑制排放量並對抗全球暖化。)
