@@ -334,3 +334,6 @@
 - hit the sack
   - 💡 ph. 意思是「去睡覺、就寢」（動詞片語，常用於非正式口語，同义詞為 hit the hay）。
   - 📝 After working on the IELTS essay for hours, I am ready to hit the sack. (在寫了幾個小時的雅思作文後，我準備去睡覺了。)
+- vibrant city
+  - 💡 adj. 充滿活力的，繁華的（常搭配 city, atmosphere 等，形容地方生氣勃勃）
+  - 📝 London is a vibrant city that offers diverse cultural experiences. (倫敦是一座充滿活力且提供多元文化體驗的繁華城市。)
