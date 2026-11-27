@@ -337,3 +337,6 @@
 - vibrant city
   - 💡 adj. 充滿活力的，繁華的（常搭配 city, atmosphere 等，形容地方生氣勃勃）
   - 📝 London is a vibrant city that offers diverse cultural experiences. (倫敦是一座充滿活力且提供多元文化體驗的繁華城市。)
+- a steady stream of
+  - 💡 片語，源源不絕的、持續不斷的人事物（常接複數名詞）。
+  - 📝 Modern cities generate a steady stream of data every single second. (現代城市每一秒都在產生源源不絕的數據。)
