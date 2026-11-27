@@ -368,3 +368,6 @@
 - fairly
   - 💡 副詞，相當地、頗（用於修飾形容詞或副詞，程度小於 very）。
   - 📝 The lecture on climate change was fairly interesting. (那場關於氣候變遷的講座相當有趣。)
+- get around
+  - 💡 (phrasal verb) 四處走動、旅行；（消息等）流傳。常搭配城市或交通方式使用。
+  - 📝 Public transportation makes it much easier to get around the city. (大眾運輸讓人們更容易在城市中四處移動。)
