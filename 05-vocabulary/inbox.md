@@ -307,3 +307,6 @@
 - in view of
   - 💡 prep. 鑑於，由於（常置於句首或句中，表原因或考量因素）
   - 📝 In view of the rising sea levels, coastal cities must upgrade their infrastructure. (鑑於海平面上升，沿海城市必須升級其基礎設施。)
+- across the street
+  - 💡 prep. 越過街道，在街對面（常用於描述地理位置或方向）
+  - 📝 The public library is located just across the street from my office. (公共圖書館就位於我辦公室的街對面。)
