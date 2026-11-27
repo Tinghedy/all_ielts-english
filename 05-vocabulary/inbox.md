@@ -343,3 +343,6 @@
 - curb emissions
   - 💡 v. 控制、抑制（排放量），常與 greenhouse gases 或 carbon 搭配使用
   - 📝 Governments must take immediate action to curb emissions and combat global warming. (政府必須立即採取行動來抑制排放量並對抗全球暖化。)
+- infrastructure
+  - 💡 n. 基礎建設，指國家或組織運作所需的實體或組織架構（常用搭配詞如 develop/improve infrastructure）。
+  - 📝 The government needs to invest more in public transport infrastructure to reduce traffic congestion. (政府需要投資更多在公共交通基礎設施以減少交通擁擠。)
