@@ -391,3 +391,6 @@
   - ✏️ 原寫：I consider myself as｜consider 後方直接接受詞和受詞補語，不需要加 as。
   - 💡 consider (v.) 認為、視為；用法為 consider + 受詞 + (as) 形容詞/名詞。
   - 📝 I consider myself fortunate to have the opportunity to study abroad. (我覺得自己很幸運能有出國留學的機會。)
+- on time
+  - 💡 phr. 準時，按時（指剛好在預定時間）
+  - 📝 It is crucial for employees to arrive at the office on time. (員工準時到達辦公室至關重要。)
