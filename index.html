@@ -263,6 +263,7 @@ const GEMINI_PROMPT = `你是台灣 IELTS 考生的英文助教。考生隨手�
 - changed：有沒有修改（true / false）。
 - explanation：若有修改，用繁體中文一句話說明錯在哪；沒修改則空字串。
 - gloss：用繁體中文一行說明重點字 / 片語的意思與用法（含詞性，必要時附搭配詞），精簡。
+- example：一句自然的英文例句，用到重點字 / 片語，貼近 IELTS 常見情境（教育、工作、環境、科技等），句尾括號附繁體中文翻譯。
 
 考生的筆記：
 `;
@@ -274,8 +275,8 @@ async function askGemini(text) {
       responseMimeType: "application/json",
       responseSchema: {
         type: "OBJECT",
-        properties: { corrected: { type: "STRING" }, changed: { type: "BOOLEAN" }, explanation: { type: "STRING" }, gloss: { type: "STRING" } },
-        required: ["corrected", "changed", "explanation", "gloss"],
+        properties: { corrected: { type: "STRING" }, changed: { type: "BOOLEAN" }, explanation: { type: "STRING" }, gloss: { type: "STRING" }, example: { type: "STRING" } },
+        required: ["corrected", "changed", "explanation", "gloss", "example"],
       },
     },
   };
@@ -457,6 +458,7 @@ async function addNote(raw) {
       entry = [`- ${corrected}`, `  - ✏️ 原寫：${text}` + (why ? `｜${why}` : "")];
     }
     if (ai.gloss) entry.push(`  - 💡 ${cell(ai.gloss)}`);
+    if (ai.example) entry.push(`  - 📝 ${cell(ai.example)}`);
   }
   const day = today();
   const existing = await store.read(INBOX);
@@ -475,9 +477,10 @@ async function notes() {
   let day = "";
   for (const l of text.split("\n")) {
     if (l.startsWith("## ")) day = l.slice(3).trim();
-    else if (l.startsWith("- ")) out.push({ date: day, text: l.slice(2), fix: "", gloss: "" });
+    else if (l.startsWith("- ")) out.push({ date: day, text: l.slice(2), fix: "", gloss: "", example: "" });
     else if (out.length && l.startsWith("  - ✏️ ")) out[out.length - 1].fix = l.slice(7);
     else if (out.length && l.startsWith("  - 💡 ")) out[out.length - 1].gloss = l.slice(7);
+    else if (out.length && l.startsWith("  - 📝 ")) out[out.length - 1].example = l.slice(7);
   }
   return out.reverse();
 }
@@ -512,7 +515,8 @@ async function loadNotes() {
   $("#quickList").innerHTML = Object.entries(byDay).map(([d, items]) =>
     `<div class="day">${esc(d)}</div><ul class="notes">${items.map(n => `<li>${esc(n.text)}
       ${n.fix ? `<div class="sub fix">✏️ ${esc(n.fix)}</div>` : ""}
-      ${n.gloss ? `<div class="sub">💡 ${esc(n.gloss)}</div>` : ""}</li>`).join("")}</ul>`).join("");
+      ${n.gloss ? `<div class="sub">💡 ${esc(n.gloss)}</div>` : ""}
+      ${n.example ? `<div class="sub">📝 ${esc(n.example)}</div>` : ""}</li>`).join("")}</ul>`).join("");
 }
 $("#quickIn").onkeydown = async e => {
   if (e.key !== "Enter" || e.isComposing) return;
