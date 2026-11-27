@@ -292,3 +292,6 @@
 - It has become increasingly common that
   - 💡 adj. 常見的、普遍的（作形容詞，常搭配 be become common 或 common practice）
   - 📝 Remote work has become increasingly common in the tech industry. (遠距工作在科技業變得日益普遍。)
+- commodity
+  - 💡 n. 商品、貨物；有價值的東西（常指農產品或礦產等原材料，可作不可數或可數名詞）。
+  - 📝 Water is becoming a scarce commodity in many parts of the world. (水在世界許多地區正逐漸成為稀缺商品。)
