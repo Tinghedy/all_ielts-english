@@ -582,3 +582,6 @@
 - vocational training
   - 💡 n. 職業訓練，專門為特定行業或工作技能所進行的培訓。
   - 📝 The government provides free vocational training for unemployed young adults. (政府為失業青年提供免費的職業訓練。)
+- practical skills
+  - 💡 n. 實用技能，指能直接應用於工作或日常生活中的具體能力（常與 acquire, develop 搭配）。
+  - 📝 Vocational training programs should focus on equipping students with practical skills for the modern job market. (職業培訓計畫應該著重於為學生配備適應現代就業市場的實用技能。)
