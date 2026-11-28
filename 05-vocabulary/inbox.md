@@ -560,3 +560,6 @@
 - uncover talents
   - 💡 v. 發掘，揭露（常與 talent、potential 搭配，指展現隱藏的能力）
   - 📝 Effective managers know how to uncover talents in their employees to build a stronger team. (優秀的管理者懂得如何發掘員工的才能來打造更強大的團隊。)
+- a well-paid job
+  - 💡 well-paid (adj.) 待遇好的、薪水高的。常用於形容工作，常搭配 job、position 等。
+  - 📝 Securing a well-paid job in the tech industry requires advanced coding skills. (在科技業找到一份高薪工作需要先進的編碼技能。)
