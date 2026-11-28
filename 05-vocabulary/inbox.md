@@ -557,3 +557,6 @@
 - participate in a wide range of activities
   - 💡 phr. 參與各式各樣的活動（動詞片語，常搭配 a wide range of 表示範圍廣泛）
   - 📝 University students are encouraged to participate in a wide range of extracurricular activities to build leadership skills. (大學生被鼓勵參與各式各樣的課外活動以培養領導能力。)
+- uncover talents
+  - 💡 v. 發掘，揭露（常與 talent、potential 搭配，指展現隱藏的能力）
+  - 📝 Effective managers know how to uncover talents in their employees to build a stronger team. (優秀的管理者懂得如何發掘員工的才能來打造更強大的團隊。)
