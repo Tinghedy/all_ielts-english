@@ -636,3 +636,7 @@
   - ✏️ 原寫：the very last minute｜表示「在最後千鈞一髮之際」時，應使用介系詞 at。
   - 💡 at the very last minute (片語) 在最後一刻，指剛好趕上期限或發生在緊要關頭。
   - 📝 Many students submit their assignments at the very last minute. (許多學生在最後一刻才交作業。)
+- put me in a good mood
+  - ✏️ 原寫：put me in the good mood｜應使用不定冠詞 a 而非定冠詞 the，因為 mood 在此為可數名詞的首次提及。
+  - 💡 put someone in a good mood (片語) 使某人心情好；常用搭配詞為 put/get sb in a good mood。
+  - 📝 Listening to classical music always puts me in a good mood before a stressful exam. (聽古典音樂總能在壓力大的考試前讓我有好心情。)
