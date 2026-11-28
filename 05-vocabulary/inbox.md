@@ -457,3 +457,6 @@
   - ✏️ 原寫：routinesed｜routinesed 拼字錯誤，正確的動詞過去分詞或形容詞拼法為 routinized。
   - 💡 routinized (adj.) 常規化的，例行公事化的；指使某事變成固定程序或習慣。
   - 📝 Modern office work has become increasingly routinized due to automation. (現代辦公室工作因自動化而日益常規化。)
+- equip
+  - 💡 vt. 裝備，配備；使具備（能力等），常用於 equip someone with something。
+  - 📝 Universities should equip students with critical thinking skills for the modern workforce. (大學應該培養學生的批判性思考能力，以適應現代職場。)
