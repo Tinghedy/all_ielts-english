@@ -437,3 +437,6 @@
   - 💡 phrv. 歸結為，意思是事情的最核心或決定性因素（常接名詞或動名詞 V-ing）
   - 📝 Success often comes down to hard work and perseverance. (成功通常歸結於努力工作與毅力。)
 - strike a balance
+- strike a balance
+  - 💡 strike a balance (v. 片語) 取得平衡；折中，常搭配 between A and B 使用。
+  - 📝 Governments must strike a balance between economic growth and environmental protection. (政府必須在經濟成長與環境保護之間取得平衡。)
