@@ -585,3 +585,6 @@
 - practical skills
   - 💡 n. 實用技能，指能直接應用於工作或日常生活中的具體能力（常與 acquire, develop 搭配）。
   - 📝 Vocational training programs should focus on equipping students with practical skills for the modern job market. (職業培訓計畫應該著重於為學生配備適應現代就業市場的實用技能。)
+- routinized work
+  - 💡 routinezed work (phr.): 例行公事、規律化工作 (n.)，指缺乏變化且重複性高的工作內容。
+  - 📝 Many employees feel demotivated when they are trapped in routinized work every day. (許多員工每天陷入例行公事中時，會感到失去動力。)
