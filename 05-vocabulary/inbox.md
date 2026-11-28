@@ -536,3 +536,6 @@
 - drop out of
   - 💡 phrv. 退學、休學（後接學校等機構名，常用於談論教育議題）
   - 📝 Some students decide to drop out of university to pursue entrepreneurial ventures. (有些大學生決定休學去追求創業。)
+- In my past experience
+  - 💡 experience (n.) 經驗、經歷；常用片語 in my past experience 表示「在我過去的經驗中」。
+  - 📝 In my past experience, working in a multicultural team enhances communication skills. (在我過去的經驗中，在多元文化團隊中工作能增進溝通技巧。)
