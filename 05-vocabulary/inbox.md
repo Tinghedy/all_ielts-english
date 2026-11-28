@@ -601,3 +601,6 @@
   - 💡 片語，意為「因此、結果」（副詞片語，常用於連接兩個句子或引出結果，同義詞為 consequently）。
   - 📝 Remote work allows employees to save commuting time; as a consequence, productivity often increases. (遠距工作讓員工省下通勤時間；因此，生產力通常會提升。)
 - resemble
+- resemble
+  - 💡 v. 形似、像（及物動詞，不用於進行式，常搭配 resemble someone/something in appearance）
+  - 📝 The new renewable energy policy closely resembles the one implemented in Germany. (這項新的再生能源政策與德國實施的政策非常相似。)
