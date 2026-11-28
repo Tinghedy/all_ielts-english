@@ -570,3 +570,6 @@
 - extracurricular
   - 💡 adj. 課外活動的，通常用於形容學校課程以外的活動 (collocation: extracurricular activities)
   - 📝 Participating in extracurricular activities helps students develop essential leadership skills. (參與課外活動有助於學生培養必備的領導能力。)
+- vocational training
+  - 💡 n. 職業訓練，指針對特定工作技能進行的實務培訓（常用搭配：provide / receive vocational training）。
+  - 📝 The government provides vocational training programs to help young adults enter the job market. (政府提供職業訓練計畫以幫助年輕人進入就業市場。)
