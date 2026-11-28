@@ -563,3 +563,7 @@
 - a well-paid job
   - 💡 well-paid (adj.) 待遇好的、薪水高的。常用於形容工作，常搭配 job、position 等。
   - 📝 Securing a well-paid job in the tech industry requires advanced coding skills. (在科技業找到一份高薪工作需要先進的編碼技能。)
+- extravagant
+  - ✏️ 原寫：extravagent｜拼字錯誤，字尾應為 -agant 而非 -agent。
+  - 💡 adj. 奢侈的，揮霍的（常與 extravagant lifestyle 或 spendthrift 相關）
+  - 📝 Many young professionals struggle to save money because of their extravagant lifestyle. (許多青年專業人士因為揮霍的生活方式而很難存錢。)
