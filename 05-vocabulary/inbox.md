@@ -440,3 +440,6 @@
 - strike a balance
   - 💡 strike a balance (v. 片語) 取得平衡；折中，常搭配 between A and B 使用。
   - 📝 Governments must strike a balance between economic growth and environmental protection. (政府必須在經濟成長與環境保護之間取得平衡。)
+- traffic congestion and pollution
+  - 💡 traffic congestion (n.) 交通壅塞，通常指車多造成的堵塞。常見搭配詞如 alleviate traffic congestion（緩解交通壅塞）。
+  - 📝 The government is implementing new policies to reduce traffic congestion and pollution in urban areas. (政府正在實施新政策以減少城市地區的交通壅塞與污染。)
