@@ -594,3 +594,6 @@
 - economical
   - 💡 adj. 經濟實惠的、節約的（指省錢或有效利用資源，常搭配 efficient, use）
   - 📝 Switching to LED light bulbs is a more economical choice for households. (改用LED燈泡對家庭來說是更經濟實惠的選擇。)
+- suffocation
+  - 💡 n. 窒息、呼吸困難，常搭配 cause suffocation（造成窒息）或 die of suffocation（因窒息而死）。
+  - 📝 Air pollution in major cities can sometimes cause severe suffocation and respiratory issues. (大都會地區的空氣污染有時會導致嚴重的窒息與呼吸道問題。)
