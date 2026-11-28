@@ -579,3 +579,6 @@
 - shape one's behaviour
   - 💡 phr. 塑造某人的行為（指影響或改變一個人的性格、習慣或行事方式）
   - 📝 Schools play a vital role in shaping students' behaviour and moral values. (學校在塑造學生的行為與道德價值觀方面扮演著至關重要的角色。)
+- vocational training
+  - 💡 n. 職業訓練，專門為特定行業或工作技能所進行的培訓。
+  - 📝 The government provides free vocational training for unemployed young adults. (政府為失業青年提供免費的職業訓練。)
