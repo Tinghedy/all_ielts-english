@@ -629,3 +629,6 @@
 - procrastination
   - 💡 拖延（不可數名詞），常與動詞 lead to 或 cause 搭配使用。
   - 📝 Chronic procrastination can severely hinder academic and career success. (長期的拖延會嚴重阻礙學業與職涯的成功。)
+- constantly
+  - 💡 ad. 經常地、不斷地，常與進行式連用以表達持續發生的行為或抱怨。
+  - 📝 Modern cities are constantly changing due to rapid technological advancements. (現代城市因科技的快速進步而不斷改變。)
