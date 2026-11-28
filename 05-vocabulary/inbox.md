@@ -600,3 +600,4 @@
 - as a consequence
   - 💡 片語，意為「因此、結果」（副詞片語，常用於連接兩個句子或引出結果，同義詞為 consequently）。
   - 📝 Remote work allows employees to save commuting time; as a consequence, productivity often increases. (遠距工作讓員工省下通勤時間；因此，生產力通常會提升。)
+- resemble
