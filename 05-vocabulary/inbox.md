@@ -591,3 +591,6 @@
 - effectiveness
   - 💡 n. 有效性，成效（指達到預期目標的程度，常搭配 cost-effectiveness、program effectiveness）
   - 📝 The government is evaluating the effectiveness of the new environmental policy. (政府正在評估這項新環境政策的成效。)
+- economical
+  - 💡 adj. 經濟實惠的、節約的（指省錢或有效利用資源，常搭配 efficient, use）
+  - 📝 Switching to LED light bulbs is a more economical choice for households. (改用LED燈泡對家庭來說是更經濟實惠的選擇。)
