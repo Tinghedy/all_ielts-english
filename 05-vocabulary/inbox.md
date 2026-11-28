@@ -460,3 +460,7 @@
 - equip
   - 💡 vt. 裝備，配備；使具備（能力等），常用於 equip someone with something。
   - 📝 Universities should equip students with critical thinking skills for the modern workforce. (大學應該培養學生的批判性思考能力，以適應現代職場。)
+- inevitable
+  - ✏️ 原寫：evitable｜evitable 拼字錯誤，表示「可避免的」應加上否定字首 in- 成為 inevitable。
+  - 💡 adj. 不可避免的、必然發生的（常用於表達趨勢或結果，如 inevitable trend）。
+  - 📝 Climate change has made extreme weather events an inevitable part of our lives. (氣候變遷已使極端天氣事件成為我們生活中不可避免的一部分。)
