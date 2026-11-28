@@ -521,3 +521,6 @@
 - particularly valuable for
   - 💡 valuable (adj.) 有價值的、有用的；be valuable for... 表示「對……很有價值／很有幫助」，常用於表達事物的正面效益。
   - 📝 Acquiring practical skills is particularly valuable for graduates entering a competitive job market. (獲得實用技能對於進入競爭激烈就業市場的畢業生來說特別有價值。)
+- respond to confusion
+  - 💡 v. 回應、對...做出反應（phr. respond to，常搭配 sth./sb. 使用）
+  - 📝 The government needs to respond to public confusion regarding the new tax policy. (政府需要針對大眾對新稅收政策的混淆做出回應。)
