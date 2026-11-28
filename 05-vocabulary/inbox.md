@@ -467,3 +467,6 @@
 - greater flexibility
   - 💡 flexibility (n.) 靈活性、彈性；常搭配 greater / increased 等形容詞修飾，在雅思寫作中可用於討論工作安排或教育制度。
   - 📝 Remote work options provide employees with greater flexibility in managing their time. (遠距工作選項為員工在時間管理上提供了更大的靈活性。)
+- win first place
+  - 💡 win first place (片語) 贏得第一名，常用於比賽或競賽場合，動詞 win 亦可用 take 或 secure 代替。
+  - 📝 Our team worked collaboratively on the research project and managed to win first place in the national science competition. (我們團隊在研究項目上合作無間，並成功在全國科學競賽中贏得第一名。)
