@@ -567,3 +567,6 @@
   - ✏️ 原寫：extravagent｜拼字錯誤，字尾應為 -agant 而非 -agent。
   - 💡 adj. 奢侈的，揮霍的（常與 extravagant lifestyle 或 spendthrift 相關）
   - 📝 Many young professionals struggle to save money because of their extravagant lifestyle. (許多青年專業人士因為揮霍的生活方式而很難存錢。)
+- extracurricular
+  - 💡 adj. 課外活動的，通常用於形容學校課程以外的活動 (collocation: extracurricular activities)
+  - 📝 Participating in extracurricular activities helps students develop essential leadership skills. (參與課外活動有助於學生培養必備的領導能力。)
