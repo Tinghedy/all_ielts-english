@@ -604,3 +604,6 @@
 - resemble
   - 💡 v. 形似、像（及物動詞，不用於進行式，常搭配 resemble someone/something in appearance）
   - 📝 The new renewable energy policy closely resembles the one implemented in Germany. (這項新的再生能源政策與德國實施的政策非常相似。)
+- distinct
+  - 💡 distinct (adj.) 明顯不同的、清晰的；常搭配 from（distinct from...）。
+  - 📝 Online learning offers distinct advantages over traditional classroom instruction in terms of flexibility. (線上學習在彈性方面比傳統課堂教學有著明顯的優勢。)
