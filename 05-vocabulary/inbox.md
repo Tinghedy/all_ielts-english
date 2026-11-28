@@ -527,3 +527,6 @@
 - self-discipline
   - 💡 n. 自律，自我約束（常用搭配詞如：have self-discipline, practice self-discipline）
   - 📝 Developing strong self-discipline is essential for achieving long-term career goals. (培養強大的自律能力對於實現長期職涯目標至關重要。)
+- supervision
+  - 💡 n. 監督、管理；指對人員、工作或過程進行指導與查看，常用搭配詞有 under the supervision of...
+  - 📝 The research project was conducted under the close supervision of a senior professor. (這項研究計畫是在一位資深教授的密切監督下進行的。)
