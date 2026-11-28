@@ -632,3 +632,7 @@
 - constantly
   - 💡 ad. 經常地、不斷地，常與進行式連用以表達持續發生的行為或抱怨。
   - 📝 Modern cities are constantly changing due to rapid technological advancements. (現代城市因科技的快速進步而不斷改變。)
+- at the very last minute
+  - ✏️ 原寫：the very last minute｜表示「在最後千鈞一髮之際」時，應使用介系詞 at。
+  - 💡 at the very last minute (片語) 在最後一刻，指剛好趕上期限或發生在緊要關頭。
+  - 📝 Many students submit their assignments at the very last minute. (許多學生在最後一刻才交作業。)
