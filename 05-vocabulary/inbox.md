@@ -545,3 +545,6 @@
 - continuous assessment
   - 💡 n. 持續評量、平時考核（指透過日常作業、專案等而非單一期末考來評估學生表現）
   - 📝 Many educators believe that continuous assessment reduces students' exam stress. (許多教育工作者認為，持續評量能減輕學生的考試壓力。)
+- exam pressure
+  - 💡 n. 考試壓力，指面臨考試時產生的緊張與焦慮感（常見搭配詞如 cope with exam pressure）
+  - 📝 Many high school students struggle to cope with exam pressure. (許多高中生努力應付考試壓力。)
