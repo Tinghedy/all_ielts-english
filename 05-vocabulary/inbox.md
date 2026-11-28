@@ -539,3 +539,6 @@
 - In my past experience
   - 💡 experience (n.) 經驗、經歷；常用片語 in my past experience 表示「在我過去的經驗中」。
   - 📝 In my past experience, working in a multicultural team enhances communication skills. (在我過去的經驗中，在多元文化團隊中工作能增進溝通技巧。)
+- rote
+  - 💡 n. / adj. 死記硬背（通常作形容詞用，如 rote learning）
+  - 📝 Rote learning is discouraged in modern education systems because it limits critical thinking. (死記硬背在現代教育體系中不受鼓勵，因為它會限制批判性思考。)
