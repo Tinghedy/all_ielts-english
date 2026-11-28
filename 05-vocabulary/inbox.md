@@ -473,3 +473,6 @@
 - food for thought
   - 💡 n. 引人深思的事物、值得思考的線索（常用作單數，常搭配 give someone... 或 provide...）
   - 📝 The documentary on climate change provided much food for thought for the policymakers. (這部關於氣候變遷的紀錄片為政策制定者提供了許多值得深思的議題。)
+- exquisite
+  - 💡 adj. 精緻的，講究的（形容工藝、設計或感覺極為細緻完美）
+  - 📝 The museum exhibits a collection of exquisite ancient artifacts from the Qing dynasty. (這間博物館展出了清朝精緻的古代文物收藏。)
