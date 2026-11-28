@@ -610,3 +610,6 @@
 - surname
   - 💡 n. 姓氏（同 family name 或 last name，常與 first name / given name 對應）
   - 📝 Please write your given name followed by your surname on the application form. (請在申請表上先寫名字，再寫姓氏。)
+- pivotal
+  - 💡 adj. 關鍵的，核心的（常用於形容某事物對決定成功與否扮演最重要角色，常搭配 role 或 factor）。
+  - 📝 Technology plays a pivotal role in modern education by making learning resources accessible to everyone. (科技在現代教育中扮演關鍵角色，讓每個人都能取得學習資源。)
