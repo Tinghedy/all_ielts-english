@@ -485,3 +485,6 @@
 - Imperative
   - 💡 adj. 非常重要的，緊急的（常作表語，後接 to V 或 that 子句）；n. 必要的事
   - 📝 It is imperative that governments take immediate action to combat climate change. (政府採取立即行動來對抗氣候變遷是至關重要的。)
+- the public
+  - 💡 n. 大眾，公眾（通常加定冠詞 the，作單數或複數名詞用）
+  - 📝 The government should provide more information about the new policy to the public. (政府應該向大眾提供更多關於這項新政策的資訊。)
