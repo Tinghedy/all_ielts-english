@@ -623,3 +623,6 @@
   - ✏️ 原寫：career focused｜複合形容詞應加上連字號（hyphen）連接以避免語意混淆。
   - 💡 adj. 以事業為重的，專注於職涯發展的（常搭配 career-focused individual）
   - 📝 Modern workplaces increasingly value career-focused employees who are willing to take on new challenges. (現代職場越來越重視願意接受新挑戰、以事業為重的員工。)
+- biography
+  - 💡 n. 傳記，某人的生平事蹟（常用搭配詞 write a biography）
+  - 📝 Reading biographies of successful entrepreneurs can provide valuable insights into business management. (閱讀成功企業家的傳記可以為企業管理提供寶貴的見解。)
