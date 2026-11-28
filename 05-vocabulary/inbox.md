@@ -533,3 +533,6 @@
 - conflict
   - 💡 n. 衝突、爭執（常與 between, with 搭配使用）；v. 衝突、抵觸（常與 with 搭配使用）
   - 📝 Remote work can sometimes create conflict between professional responsibilities and personal life. (遠距工作有時會在職業責任與個人生活之間產生衝突。)
+- drop out of
+  - 💡 phrv. 退學、休學（後接學校等機構名，常用於談論教育議題）
+  - 📝 Some students decide to drop out of university to pursue entrepreneurial ventures. (有些大學生決定休學去追求創業。)
