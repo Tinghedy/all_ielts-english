@@ -530,3 +530,6 @@
 - supervision
   - 💡 n. 監督、管理；指對人員、工作或過程進行指導與查看，常用搭配詞有 under the supervision of...
   - 📝 The research project was conducted under the close supervision of a senior professor. (這項研究計畫是在一位資深教授的密切監督下進行的。)
+- conflict
+  - 💡 n. 衝突、爭執（常與 between, with 搭配使用）；v. 衝突、抵觸（常與 with 搭配使用）
+  - 📝 Remote work can sometimes create conflict between professional responsibilities and personal life. (遠距工作有時會在職業責任與個人生活之間產生衝突。)
