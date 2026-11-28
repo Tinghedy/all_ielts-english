@@ -476,3 +476,6 @@
 - exquisite
   - 💡 adj. 精緻的，講究的（形容工藝、設計或感覺極為細緻完美）
   - 📝 The museum exhibits a collection of exquisite ancient artifacts from the Qing dynasty. (這間博物館展出了清朝精緻的古代文物收藏。)
+- pungent
+  - 💡 adj. (氣味或味道) 刺鼻的、強烈的；(評論等) 辛辣的、尖刻的
+  - 📝 The pungent smell of chemicals filled the laboratory during the experiment. (實驗室裡充斥著刺鼻的化學藥品氣味。)
