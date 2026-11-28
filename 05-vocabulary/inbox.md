@@ -464,3 +464,6 @@
   - ✏️ 原寫：evitable｜evitable 拼字錯誤，表示「可避免的」應加上否定字首 in- 成為 inevitable。
   - 💡 adj. 不可避免的、必然發生的（常用於表達趨勢或結果，如 inevitable trend）。
   - 📝 Climate change has made extreme weather events an inevitable part of our lives. (氣候變遷已使極端天氣事件成為我們生活中不可避免的一部分。)
+- greater flexibility
+  - 💡 flexibility (n.) 靈活性、彈性；常搭配 greater / increased 等形容詞修飾，在雅思寫作中可用於討論工作安排或教育制度。
+  - 📝 Remote work options provide employees with greater flexibility in managing their time. (遠距工作選項為員工在時間管理上提供了更大的靈活性。)
