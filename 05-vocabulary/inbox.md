@@ -518,3 +518,6 @@
 - tend to
   - 💡 傾向於，動詞片語，後接原形動詞（常用於表達習慣或普遍現象）
   - 📝 University students tend to spend more time studying in the library during exam periods. (大學生在考試期間往往花更多時間在圖書館學習。)
+- particularly valuable for
+  - 💡 valuable (adj.) 有價值的、有用的；be valuable for... 表示「對……很有價值／很有幫助」，常用於表達事物的正面效益。
+  - 📝 Acquiring practical skills is particularly valuable for graduates entering a competitive job market. (獲得實用技能對於進入競爭激烈就業市場的畢業生來說特別有價值。)
