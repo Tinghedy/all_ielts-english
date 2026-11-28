@@ -436,3 +436,4 @@
 - It comes down to
   - 💡 phrv. 歸結為，意思是事情的最核心或決定性因素（常接名詞或動名詞 V-ing）
   - 📝 Success often comes down to hard work and perseverance. (成功通常歸結於努力工作與毅力。)
+- strike a balance
