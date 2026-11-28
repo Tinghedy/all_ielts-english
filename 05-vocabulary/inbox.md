@@ -491,3 +491,6 @@
 - articulate my thoughts
   - 💡 articulate (v.) 表達、闡述，指清晰流利地用言詞表達想法或觀點（常用搭配詞：articulate thoughts / ideas）。
   - 📝 It is important for university students to articulate their thoughts clearly during seminars. (大學生在研討會期間清晰地表達他們的想法是很重要的。)
+- structure my argument
+  - 💡 v. 組織、建構論點（structure 作動詞用，常搭配 argument、essay 等字）
+  - 📝 Candidates need to structure their arguments logically to achieve a high band score in IELTS Writing. (考生需要在雅思寫作中邏輯地組織他們的論點以獲得高分。)
