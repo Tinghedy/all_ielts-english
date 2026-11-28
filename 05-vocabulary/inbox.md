@@ -509,3 +509,6 @@
 - interaction that takes place in a real classroom
   - 💡 take place (v. 片語) 發生、舉行（指事件按計畫發生，不用於被動語態）。
   - 📝 Face-to-face interaction that takes place in a real classroom is crucial for effective language learning. (在真實教室中發生的面對面互動對於有效的語言學習至關重要。)
+- admittedly
+  - 💡 adverb 誠然、無可否認地（常用於句首，用來承認某個事實或讓步）
+  - 📝 Admittedly, renewable energy sources can be intermittent and difficult to store. (誠然，再生能源可能具有間歇性且難以儲存。)
