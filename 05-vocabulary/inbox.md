@@ -597,3 +597,6 @@
 - suffocation
   - 💡 n. 窒息、呼吸困難，常搭配 cause suffocation（造成窒息）或 die of suffocation（因窒息而死）。
   - 📝 Air pollution in major cities can sometimes cause severe suffocation and respiratory issues. (大都會地區的空氣污染有時會導致嚴重的窒息與呼吸道問題。)
+- as a consequence
+  - 💡 片語，意為「因此、結果」（副詞片語，常用於連接兩個句子或引出結果，同義詞為 consequently）。
+  - 📝 Remote work allows employees to save commuting time; as a consequence, productivity often increases. (遠距工作讓員工省下通勤時間；因此，生產力通常會提升。)
