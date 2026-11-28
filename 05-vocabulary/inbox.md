@@ -443,3 +443,6 @@
 - traffic congestion and pollution
   - 💡 traffic congestion (n.) 交通壅塞，通常指車多造成的堵塞。常見搭配詞如 alleviate traffic congestion（緩解交通壅塞）。
   - 📝 The government is implementing new policies to reduce traffic congestion and pollution in urban areas. (政府正在實施新政策以減少城市地區的交通壅塞與污染。)
+- net worth
+  - 💡 n. 資產淨值，指總資產減去總負債後的財務價值（常用於商業與財經話題）。
+  - 📝 Entrepreneurs often measure their success by their net worth and societal impact. (企業家經常透過他們的資產淨值和社會影響力來衡量他們的成功。)
