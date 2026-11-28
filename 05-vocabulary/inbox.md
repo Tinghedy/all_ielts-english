@@ -500,3 +500,6 @@
 - cal
   - 💡 n. 卡路里（calorie 的簡稱），常與 burn、intake 等詞搭配使用。
   - 📝 Regular exercise helps people burn more calories and maintain a healthy weight. (規律運動有助於人們燃燒更多卡路里並維持健康的體重。)
+- start my graduate school
+  - 💡 graduate school (n.) 研究所；通常搭配動詞 start, enter 或 apply for。
+  - 📝 Many students feel anxious before they start their graduate school journey. (許多學生在開始他們的研究所歷程之前都會感到焦慮。)
