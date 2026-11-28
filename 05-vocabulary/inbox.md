@@ -542,3 +542,6 @@
 - rote
   - 💡 n. / adj. 死記硬背（通常作形容詞用，如 rote learning）
   - 📝 Rote learning is discouraged in modern education systems because it limits critical thinking. (死記硬背在現代教育體系中不受鼓勵，因為它會限制批判性思考。)
+- continuous assessment
+  - 💡 n. 持續評量、平時考核（指透過日常作業、專案等而非單一期末考來評估學生表現）
+  - 📝 Many educators believe that continuous assessment reduces students' exam stress. (許多教育工作者認為，持續評量能減輕學生的考試壓力。)
