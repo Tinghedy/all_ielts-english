@@ -515,3 +515,6 @@
 - nevertheless
   - 💡 adv. 然而，儘管如此（表轉折，常置於句首或句中，連接兩個相對的子句）
   - 📝 The initial research was inconclusive; nevertheless, the team decided to proceed with the experiment. (初步研究結果並不確定；然而，團隊仍決定繼續進行實驗。)
+- tend to
+  - 💡 傾向於，動詞片語，後接原形動詞（常用於表達習慣或普遍現象）
+  - 📝 University students tend to spend more time studying in the library during exam periods. (大學生在考試期間往往花更多時間在圖書館學習。)
