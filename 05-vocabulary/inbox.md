@@ -551,3 +551,6 @@
 - academic subject
   - 💡 學術科目（名詞，指學校教授的學科，如數學或歷史，常搭配 study、pursue 等動詞）
   - 📝 Students should explore a wide range of academic subjects before choosing their university major. (學生在選擇大學主修之前，應該探索廣泛的學術科目。)
+- equally crucial
+  - 💡 equally crucial (adv. + adj.) 同等重要的，常用於強調兩個或多個因素具備相同的關鍵性。搭配詞：equally crucial to / for。
+  - 📝 Developing renewable energy sources is equally crucial for a sustainable future. (發展可再生能源對於永續未來同樣至關重要。)
