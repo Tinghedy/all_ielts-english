@@ -613,3 +613,6 @@
 - pivotal
   - 💡 adj. 關鍵的，核心的（常用於形容某事物對決定成功與否扮演最重要角色，常搭配 role 或 factor）。
   - 📝 Technology plays a pivotal role in modern education by making learning resources accessible to everyone. (科技在現代教育中扮演關鍵角色，讓每個人都能取得學習資源。)
+- abolish
+  - 💡 vt. 廢除，革除（通常指法律、制度或習俗），常用搭配如 abolish a law / a system。
+  - 📝 Many countries are calling to abolish the death penalty in recent years. (近年來許多國家呼籲廢除死刑。)
