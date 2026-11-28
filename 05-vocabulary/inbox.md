@@ -431,3 +431,8 @@
 - illuminate
   - 💡 vt. 闡明、解釋；照亮。常搭配 issue、problem 等抽象名詞，表釐清複雜概念。
   - 📝 The latest research illuminates the complex relationship between diet and longevity. (這項最新研究闡明瞭飲食與長壽之間複雜的關係。)
+
+## 2026-11-28
+- It comes down to
+  - 💡 phrv. 歸結為，意思是事情的最核心或決定性因素（常接名詞或動名詞 V-ing）
+  - 📝 Success often comes down to hard work and perseverance. (成功通常歸結於努力工作與毅力。)
