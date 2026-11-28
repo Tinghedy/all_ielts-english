@@ -479,3 +479,6 @@
 - pungent
   - 💡 adj. (氣味或味道) 刺鼻的、強烈的；(評論等) 辛辣的、尖刻的
   - 📝 The pungent smell of chemicals filled the laboratory during the experiment. (實驗室裡充斥著刺鼻的化學藥品氣味。)
+- succulent
+  - 💡 n. 多肉植物 (指葉或莖厚實多汁以儲存水分的植物)
+  - 📝 Many urban professionals keep succulents on their desks to create a relaxing work environment. (許多都市專業人士在桌上擺放多肉植物，以營造放鬆的工作環境。)
