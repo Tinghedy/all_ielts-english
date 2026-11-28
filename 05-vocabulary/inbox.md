@@ -524,3 +524,6 @@
 - respond to confusion
   - 💡 v. 回應、對...做出反應（phr. respond to，常搭配 sth./sb. 使用）
   - 📝 The government needs to respond to public confusion regarding the new tax policy. (政府需要針對大眾對新稅收政策的混淆做出回應。)
+- self-discipline
+  - 💡 n. 自律，自我約束（常用搭配詞如：have self-discipline, practice self-discipline）
+  - 📝 Developing strong self-discipline is essential for achieving long-term career goals. (培養強大的自律能力對於實現長期職涯目標至關重要。)
