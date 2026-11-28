@@ -453,3 +453,7 @@
 - upskill
   - 💡 upskill (v.) 提升技能，指學習新技能以勝任更高端的工作（常搭配 upskill employees）。
   - 📝 Companies must upskill their workforce to adapt to rapid technological advancements. (企業必須提升員工的技能，以適應快速的科技進步。)
+- routinized
+  - ✏️ 原寫：routinesed｜routinesed 拼字錯誤，正確的動詞過去分詞或形容詞拼法為 routinized。
+  - 💡 routinized (adj.) 常規化的，例行公事化的；指使某事變成固定程序或習慣。
+  - 📝 Modern office work has become increasingly routinized due to automation. (現代辦公室工作因自動化而日益常規化。)
