@@ -619,3 +619,7 @@
 - ultimate enemy
   - 💡 ultimate enemy (名詞片語) 最終的敵人、最大勁敵，通常用來形容威脅最大的對手。
   - 📝 Procrastination is often considered the ultimate enemy of academic success. (拖延症通常被認為是學業成功的最大勁敵。)
+- career-focused
+  - ✏️ 原寫：career focused｜複合形容詞應加上連字號（hyphen）連接以避免語意混淆。
+  - 💡 adj. 以事業為重的，專注於職涯發展的（常搭配 career-focused individual）
+  - 📝 Modern workplaces increasingly value career-focused employees who are willing to take on new challenges. (現代職場越來越重視願意接受新挑戰、以事業為重的員工。)
