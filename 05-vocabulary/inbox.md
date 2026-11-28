@@ -450,3 +450,6 @@
   - ✏️ 原寫：routined task｜routined 是不正確的形容詞，表示「例行公事」應使用 routine 作為修飾詞。
   - 💡 routine task (n.片語) 例行任務、日常工作。常用於工作與時間管理情境。
   - 📝 Employees often spend the first hour of their workday handling routine taskss such as checking emails. (員工們通常花工作的第一個小時處理收發電子郵件等日常工作。)
+- upskill
+  - 💡 upskill (v.) 提升技能，指學習新技能以勝任更高端的工作（常搭配 upskill employees）。
+  - 📝 Companies must upskill their workforce to adapt to rapid technological advancements. (企業必須提升員工的技能，以適應快速的科技進步。)
