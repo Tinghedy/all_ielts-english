@@ -626,3 +626,6 @@
 - biography
   - 💡 n. 傳記，某人的生平事蹟（常用搭配詞 write a biography）
   - 📝 Reading biographies of successful entrepreneurs can provide valuable insights into business management. (閱讀成功企業家的傳記可以為企業管理提供寶貴的見解。)
+- procrastination
+  - 💡 拖延（不可數名詞），常與動詞 lead to 或 cause 搭配使用。
+  - 📝 Chronic procrastination can severely hinder academic and career success. (長期的拖延會嚴重阻礙學業與職涯的成功。)
