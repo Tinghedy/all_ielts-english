@@ -446,3 +446,7 @@
 - net worth
   - 💡 n. 資產淨值，指總資產減去總負債後的財務價值（常用於商業與財經話題）。
   - 📝 Entrepreneurs often measure their success by their net worth and societal impact. (企業家經常透過他們的資產淨值和社會影響力來衡量他們的成功。)
+- routine task
+  - ✏️ 原寫：routined task｜routined 是不正確的形容詞，表示「例行公事」應使用 routine 作為修飾詞。
+  - 💡 routine task (n.片語) 例行任務、日常工作。常用於工作與時間管理情境。
+  - 📝 Employees often spend the first hour of their workday handling routine taskss such as checking emails. (員工們通常花工作的第一個小時處理收發電子郵件等日常工作。)
