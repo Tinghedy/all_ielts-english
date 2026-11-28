@@ -503,3 +503,6 @@
 - start my graduate school
   - 💡 graduate school (n.) 研究所；通常搭配動詞 start, enter 或 apply for。
   - 📝 Many students feel anxious before they start their graduate school journey. (許多學生在開始他們的研究所歷程之前都會感到焦慮。)
+- cannot fully substitute
+  - 💡 substitute (v. / n.) 代替、替代；常搭配 전치사 with 或動詞 as，如 substitute A with B。
+  - 📝 Online courses cannot fully substitute traditional classroom teaching. (線上課程無法完全取代傳統的課堂教學。)
