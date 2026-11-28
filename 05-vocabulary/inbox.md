@@ -588,3 +588,6 @@
 - routinized work
   - 💡 routinezed work (phr.): 例行公事、規律化工作 (n.)，指缺乏變化且重複性高的工作內容。
   - 📝 Many employees feel demotivated when they are trapped in routinized work every day. (許多員工每天陷入例行公事中時，會感到失去動力。)
+- effectiveness
+  - 💡 n. 有效性，成效（指達到預期目標的程度，常搭配 cost-effectiveness、program effectiveness）
+  - 📝 The government is evaluating the effectiveness of the new environmental policy. (政府正在評估這項新環境政策的成效。)
