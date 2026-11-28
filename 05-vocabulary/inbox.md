@@ -470,3 +470,6 @@
 - win first place
   - 💡 win first place (片語) 贏得第一名，常用於比賽或競賽場合，動詞 win 亦可用 take 或 secure 代替。
   - 📝 Our team worked collaboratively on the research project and managed to win first place in the national science competition. (我們團隊在研究項目上合作無間，並成功在全國科學競賽中贏得第一名。)
+- food for thought
+  - 💡 n. 引人深思的事物、值得思考的線索（常用作單數，常搭配 give someone... 或 provide...）
+  - 📝 The documentary on climate change provided much food for thought for the policymakers. (這部關於氣候變遷的紀錄片為政策制定者提供了許多值得深思的議題。)
