@@ -506,3 +506,6 @@
 - cannot fully substitute
   - 💡 substitute (v. / n.) 代替、替代；常搭配 전치사 with 或動詞 as，如 substitute A with B。
   - 📝 Online courses cannot fully substitute traditional classroom teaching. (線上課程無法完全取代傳統的課堂教學。)
+- interaction that takes place in a real classroom
+  - 💡 take place (v. 片語) 發生、舉行（指事件按計畫發生，不用於被動語態）。
+  - 📝 Face-to-face interaction that takes place in a real classroom is crucial for effective language learning. (在真實教室中發生的面對面互動對於有效的語言學習至關重要。)
