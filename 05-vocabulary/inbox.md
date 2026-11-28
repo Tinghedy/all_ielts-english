@@ -512,3 +512,6 @@
 - admittedly
   - 💡 adverb 誠然、無可否認地（常用於句首，用來承認某個事實或讓步）
   - 📝 Admittedly, renewable energy sources can be intermittent and difficult to store. (誠然，再生能源可能具有間歇性且難以儲存。)
+- nevertheless
+  - 💡 adv. 然而，儘管如此（表轉折，常置於句首或句中，連接兩個相對的子句）
+  - 📝 The initial research was inconclusive; nevertheless, the team decided to proceed with the experiment. (初步研究結果並不確定；然而，團隊仍決定繼續進行實驗。)
