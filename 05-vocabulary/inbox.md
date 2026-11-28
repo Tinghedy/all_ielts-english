@@ -554,3 +554,6 @@
 - equally crucial
   - 💡 equally crucial (adv. + adj.) 同等重要的，常用於強調兩個或多個因素具備相同的關鍵性。搭配詞：equally crucial to / for。
   - 📝 Developing renewable energy sources is equally crucial for a sustainable future. (發展可再生能源對於永續未來同樣至關重要。)
+- participate in a wide range of activities
+  - 💡 phr. 參與各式各樣的活動（動詞片語，常搭配 a wide range of 表示範圍廣泛）
+  - 📝 University students are encouraged to participate in a wide range of extracurricular activities to build leadership skills. (大學生被鼓勵參與各式各樣的課外活動以培養領導能力。)
