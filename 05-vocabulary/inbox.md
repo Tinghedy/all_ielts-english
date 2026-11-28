@@ -548,3 +548,6 @@
 - exam pressure
   - 💡 n. 考試壓力，指面臨考試時產生的緊張與焦慮感（常見搭配詞如 cope with exam pressure）
   - 📝 Many high school students struggle to cope with exam pressure. (許多高中生努力應付考試壓力。)
+- academic subject
+  - 💡 學術科目（名詞，指學校教授的學科，如數學或歷史，常搭配 study、pursue 等動詞）
+  - 📝 Students should explore a wide range of academic subjects before choosing their university major. (學生在選擇大學主修之前，應該探索廣泛的學術科目。)
