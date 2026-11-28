@@ -616,3 +616,6 @@
 - abolish
   - 💡 vt. 廢除，革除（通常指法律、制度或習俗），常用搭配如 abolish a law / a system。
   - 📝 Many countries are calling to abolish the death penalty in recent years. (近年來許多國家呼籲廢除死刑。)
+- ultimate enemy
+  - 💡 ultimate enemy (名詞片語) 最終的敵人、最大勁敵，通常用來形容威脅最大的對手。
+  - 📝 Procrastination is often considered the ultimate enemy of academic success. (拖延症通常被認為是學業成功的最大勁敵。)
