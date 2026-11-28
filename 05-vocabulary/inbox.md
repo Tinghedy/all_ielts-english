@@ -497,3 +497,6 @@
 - particularly
   - 💡 adv. 特別、尤其（用以強調某個具體的事物或情況）
   - 📝 Technology plays a crucial role in modern education, particularly in online learning environments. (科技在現代教育中扮演關鍵角色，特別是在線上學習環境中。)
+- cal
+  - 💡 n. 卡路里（calorie 的簡稱），常與 burn、intake 等詞搭配使用。
+  - 📝 Regular exercise helps people burn more calories and maintain a healthy weight. (規律運動有助於人們燃燒更多卡路里並維持健康的體重。)
