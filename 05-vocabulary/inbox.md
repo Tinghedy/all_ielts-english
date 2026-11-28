@@ -482,3 +482,6 @@
 - succulent
   - 💡 n. 多肉植物 (指葉或莖厚實多汁以儲存水分的植物)
   - 📝 Many urban professionals keep succulents on their desks to create a relaxing work environment. (許多都市專業人士在桌上擺放多肉植物，以營造放鬆的工作環境。)
+- Imperative
+  - 💡 adj. 非常重要的，緊急的（常作表語，後接 to V 或 that 子句）；n. 必要的事
+  - 📝 It is imperative that governments take immediate action to combat climate change. (政府採取立即行動來對抗氣候變遷是至關重要的。)
