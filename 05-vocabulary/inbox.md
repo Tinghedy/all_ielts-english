@@ -494,3 +494,6 @@
 - structure my argument
   - 💡 v. 組織、建構論點（structure 作動詞用，常搭配 argument、essay 等字）
   - 📝 Candidates need to structure their arguments logically to achieve a high band score in IELTS Writing. (考生需要在雅思寫作中邏輯地組織他們的論點以獲得高分。)
+- particularly
+  - 💡 adv. 特別、尤其（用以強調某個具體的事物或情況）
+  - 📝 Technology plays a crucial role in modern education, particularly in online learning environments. (科技在現代教育中扮演關鍵角色，特別是在線上學習環境中。)
