@@ -607,3 +607,6 @@
 - distinct
   - 💡 distinct (adj.) 明顯不同的、清晰的；常搭配 from（distinct from...）。
   - 📝 Online learning offers distinct advantages over traditional classroom instruction in terms of flexibility. (線上學習在彈性方面比傳統課堂教學有著明顯的優勢。)
+- surname
+  - 💡 n. 姓氏（同 family name 或 last name，常與 first name / given name 對應）
+  - 📝 Please write your given name followed by your surname on the application form. (請在申請表上先寫名字，再寫姓氏。)
