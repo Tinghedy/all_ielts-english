@@ -576,3 +576,6 @@
 - vocational
   - 💡 adj. 職業的、技職的（通常指為特定工作做準備的訓練或教育，常搭配 training、school、education）
   - 📝 Vocational training equips students with practical skills for the modern job market. (技職訓練為學生裝備了適應現代就業市場的實用技能。)
+- shape one's behaviour
+  - 💡 phr. 塑造某人的行為（指影響或改變一個人的性格、習慣或行事方式）
+  - 📝 Schools play a vital role in shaping students' behaviour and moral values. (學校在塑造學生的行為與道德價值觀方面扮演著至關重要的角色。)
