@@ -488,3 +488,6 @@
 - the public
   - 💡 n. 大眾，公眾（通常加定冠詞 the，作單數或複數名詞用）
   - 📝 The government should provide more information about the new policy to the public. (政府應該向大眾提供更多關於這項新政策的資訊。)
+- articulate my thoughts
+  - 💡 articulate (v.) 表達、闡述，指清晰流利地用言詞表達想法或觀點（常用搭配詞：articulate thoughts / ideas）。
+  - 📝 It is important for university students to articulate their thoughts clearly during seminars. (大學生在研討會期間清晰地表達他們的想法是很重要的。)
